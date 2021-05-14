@@ -1,0 +1,1765 @@
+<html lang="en"><head>
+		<title>Lajumate.ro • Anunțuri Gratuite → Vinzi și cumperi rapid ✔️</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="ahrefs-site-verification" content="e9384b50ac29ca0726c289ee19bff92eed5b02a54e141c532c25693122af00f8">
+		<link rel="shortcut icon" href="/favicon.ico">
+		
+		 
+	      	 	      	 	 
+	      	 		<meta name="robots" content="index, follow">	
+							      	 	 
+	      	 		<meta name="description" content="Vinzi, cumperi, ne întâlnim la jumate! Doar pe Lajumate.ro poţi adăuga anunţuri gratuite cu imobiliare 🏡, mașini noi și second hand 🚙, locuri de muncă 💼, orice.">	
+							      	 	 
+	      	 		<meta name="keywords" content="Lajumate.ro, la jumate, la jumatate, jumate, jumatate, anunturi, anunturi gratuite, anunturi video, vanzari, vanzari online, cumparaturi online,">	
+							      	 	 
+	      	 		<meta name="google-site-verification" content="X2l8TQrjYJdFehIMVCoHpnkPuuvfd1sz8u6Ys6oUGfw">	
+							      	 	  
+	      	 		 
+      	 		 		<meta property="og:image" content="https://media1.lajumate.ro/images/lajumate-imagine-fb.png">
+      	 		 		      	 					    
+	    <meta name="p:domain_verify" content="8ccd4bbe61fd400593e11081c7ea8d2c">
+	    <meta property="fb:app_id" content="446315278875699">
+	    
+	    
+		<link href="https://fonts.googleapis.com/css?family=Roboto:700italic,700,400,400italic,500,500italic,300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+		<!-- CookiePro Cookies Consent Notice start for lajumate.ro -->
+		<script src="https://www.googletagservices.com/activeview/js/current/osd.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/891172494566486?v=2.9.39&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPLFVB"></script><script src="https://cdn.cookielaw.org/consent/cmp.stub.js" charset="UTF-8"></script>
+		<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" charset="UTF-8" data-domain-script="42ba3b96-e410-4caf-aa24-bb68e30ecace"></script>
+
+		
+		<script src="https://pghub.io/js/pandg-sdk.js" type="text/javascript"></script>
+		<!-- CookiePro Cookies Consent Notice end for lajumate.ro -->
+
+		
+	    <script>
+			(function() {
+	          	var insertAdsByGoogleJs = function() {
+					var page = "home"; 
+					var pages = ['home', 'home_reset', 'home_unsubscribe', 'list', 'agencies', 'user_ads', 'details', 'location'];
+
+	          		if(page != '' && (pages.indexOf(page) !== -1) === true) {
+			            var element = document.createElement('script');
+			            var firstScript = document.getElementsByTagName('script')[0];
+			            
+			            element.async = true;
+			            element.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+
+			            firstScript.parentNode.insertBefore(element, firstScript);
+		            }
+	          	};
+		        
+		        // Run this in an interval (every 0.1s) just in case we are still waiting for consent
+		        var cnt = 0;
+		        var consentSetInterval = setInterval(function(){
+		            cnt += 1;
+		            // Bail if we have not gotten a consent response after 60 seconds.
+		            if(cnt === 600) {
+		              	clearInterval(consentSetInterval);
+		            }
+		            if(typeof window.__tcfapi !== 'undefined') { // Check if window.__tcfapi has been set
+		              	clearInterval(consentSetInterval);
+		              	window.__tcfapi('addEventListener', 2, function(tcData, listenerSuccess) {
+			                if(listenerSuccess) {
+				                if(tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'useractioncomplete') {
+				                    if(!tcData.gdprApplies) {
+				                      	// GDPR DOES NOT APPLY
+				                      	// Insert adsbygoogle.js onto the page.
+				                      	insertAdsByGoogleJs();
+				                    } else {
+					                    // GDPR DOES APPLY
+					                    // Purpose 1 refers to the storage and/or access of information on a device.
+					                    var hasDeviceStorageAndAccessConsent = tcData.purpose.consents[1] || false;
+					                    var hasGoogleAdvertisingProductsConsent = false;
+
+					                    // Google Requires Consent for Purpose 1
+					                    if(hasDeviceStorageAndAccessConsent) {
+					                        // GLOBAL VENDOR LIST - https://iabeurope.eu/vendor-list-tcf-v2-0/
+					                        // CHECK FOR GOOGLE ADVERTISING PRODUCTS CONSENT. (IAB Vendor ID 755)
+					                        hasGoogleAdvertisingProductsConsent = tcData.vendor.consents[755] || false;
+					                        // Check if the user gave Google Advertising Products consent (iab vendor 755)
+					                        if(hasGoogleAdvertisingProductsConsent) {
+					                          	// Insert adsbygoogle.js onto the page.
+					                          	insertAdsByGoogleJs();
+					                        }
+					                    }
+				                    }
+
+				                    //p&g
+									if(!tcData.gdprApplies) {
+										var metadata = {	
+								            gdpr: null,
+										    gdpr_consent: null,
+										    ccpa: null,
+										    bp_id: 'antenatvgroup'	
+								        };
+								    } else {
+										var metadata = {	
+								            gdpr: 1,
+										    gdpr_consent: tcData.tcString,
+										    ccpa: null,
+										    bp_id: 'antenatvgroup'		
+								        };
+								    }
+
+									var config = {
+					                    name: 'P&G',
+					                    pixelUrl: 'https://pandg.tapad.com/tag'
+					                };
+
+	                                var tagger = Tapad.init(metadata, config);
+
+					                var data = {
+									    category: 'home',
+					                };
+
+									tagger.sync(data);
+								}
+			                }
+		              	});
+		            }
+		            cnt++;
+		        }, 100);
+		    })();
+	    </script>
+
+		<!-- Google Firebase -->
+		<script src="//www.gstatic.com/firebasejs/4.6.2/firebase-app.js"></script>
+		<script src="//www.gstatic.com/firebasejs/4.6.2/firebase-messaging.js"></script>
+		
+					<script>isLoggedIn = true;</script>
+				
+		 
+			<link rel="stylesheet" href="https://media1.lajumate.ro/css/desktop/home_0be17afc9566c76e1b5e5c7b69881743e251b4c9.css">
+    			
+	    	    	 
+		        <script src="https://media1.lajumate.ro/js/desktop/home_8d7f1ad3f0e69c48092c7aed6c08bc8a6288cc6d.js"></script><script src="https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location" async="" type="text/javascript"></script>
+	    		    
+	    
+	    
+		
+		 
+			<script>
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+			</script>
+
+			<script>
+				googletag.cmd.push(function() {
+					googletag.defineSlot('/62727623/LaJumate.ro-Onescroll-Special', [1, 1], 'div-gpt-ad-1537362395059-0').addService(googletag.pubads());
+					googletag.defineSlot('/62727623/Lajumate.ro-Branding-SkyLeft', [160, 600], 'div-gpt-ad-1554301163041-0').addService(googletag.pubads());
+					googletag.defineSlot('/62727623/Lajumate.ro-Branding-SkyRight', [160, 601], 'div-gpt-ad-1554301114009-0').addService(googletag.pubads());
+					googletag.defineSlot('/62727623/Lajumate.ro-HP-Billboard', [[970, 250], [728, 90], [980, 200]], 'div-gpt-ad-1473842279772-0').addService(googletag.pubads());
+					googletag.defineSlot('/62727623/Lajumate.ro-HP-Billboard1', [[980, 200], [728, 90]], 'div-gpt-ad-1484649918402-0').addService(googletag.pubads());
+
+					googletag.pubads().setTargeting('mature', 'no');
+					//googletag.pubads().setTargeting("RTBHouse","yes");
+					
+					googletag.pubads().enableSingleRequest();
+					googletag.pubads().collapseEmptyDivs();
+					googletag.enableServices();
+				});
+			</script>
+
+			<script>
+				var adUnits = [];
+				adUnits.push({	
+				   	"code":'div-gpt-ad-1537362395059-0',	
+				   	"bids":[		
+				      	{bidder: "rtbhouse",params: {region: 'prebid-eu',publisherId: 'FxXwYu16CSnfjgxF0NQH'}},	
+				   	],
+				   	"sizes":[1,1], "mediaTypes":{"banner":{"sizes":[1,1]}}
+				});
+				adUnits.push({	
+				   	"code":'div-gpt-ad-1554301163041-0',	
+				   	"bids":[		
+				      	{bidder: "rtbhouse",params: {region: 'prebid-eu',publisherId: 'FxXwYu16CSnfjgxF0NQH'}},	
+				   	],
+				   	"sizes":[160,600], "mediaTypes":{"banner":{"sizes":[160,600]}}
+				});
+				adUnits.push({	
+				   	"code":'div-gpt-ad-1554301114009-0',	
+				   	"bids":[		
+				      	{bidder: "rtbhouse",params: {region: 'prebid-eu',publisherId: 'FxXwYu16CSnfjgxF0NQH'}},	
+				   	],
+				   	"sizes":[160,601], "mediaTypes":{"banner":{"sizes":[160,601]}}
+				});
+				adUnits.push({	
+				   	"code":'div-gpt-ad-1473842279772-0',	
+				   	"bids":[		
+				      	{bidder: "rtbhouse",params: {region: 'prebid-eu',publisherId: 'FxXwYu16CSnfjgxF0NQH'}},	
+				   	],
+				   	"sizes":[[970, 250], [728, 90], [980, 200]], "mediaTypes":{"banner":{"sizes":[[970, 250], [728, 90], [980, 200]]}}
+				});
+				adUnits.push({	
+				   	"code":'div-gpt-ad-1484649918402-0',	
+				   	"bids":[		
+				      	{bidder: "rtbhouse",params: {region: 'prebid-eu',publisherId: 'FxXwYu16CSnfjgxF0NQH'}},	
+				   	],
+				   	"sizes":[[980, 200], [728, 90]], "mediaTypes":{"banner":{"sizes":[[980, 200], [728, 90]]}}
+				});
+
+				var PREBID_TIMEOUT = 1200;
+			    var pbjs = pbjs || {};
+			    pbjs.que = pbjs.que || [];
+			    pbjs.que.push(function() {
+			        pbjs.addAdUnits(adUnits);
+			        pbjs.requestBids({
+			            bidsBackHandler: sendAdserverRequest
+			        });
+			    });
+
+			    function sendAdserverRequest() {
+			        if (pbjs.adserverRequestSent) return;
+			        pbjs.adserverRequestSent = true;
+			        pbjs.que.push(function() {
+		                pbjs.setTargetingForGPTAsync();
+		                googletag.pubads().refresh();
+		            });
+			    }
+
+			    setTimeout(function() {
+			        sendAdserverRequest();
+			    }, PREBID_TIMEOUT);
+			</script>
+		
+		
+	<link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_menu_4f3b831708f85de3d36de867115607d519b96b90.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_asyncNotice_8c1efbe99b69755dcb5fa1bac7150a358bd36ab6.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_login_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_register_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_resetEmail_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_userNotifications_1512732afe2b18e024bb790dfa9e42c7976bd694.css"><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_menu_b6a48e0d43e115963f4c580a78de5f55a42d0dc2.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_asyncNotice_7c32d21e5925c598a9ae72fbb226933e744b7f88.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_login_c0239316f875dac24c070f6686284ef5af7546d4.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_register_6912312513274054bc72e06c1531f49dbcf0394c.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_resetEmail_8034a3e3fe344bc900d1f56108d4665cfb4cffdc.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_userNotifications_47828b493d16063f356168d29caeebd5df0fc214.js"></script><script src="https://cookie-cdn.cookiepro.com/scripttemplates/6.15.0/otBannerSdk.js" async="" type="text/javascript"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993437533/?random=1620988443757&amp;cv=9&amp;fst=1620988443757&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059650&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=2&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg5c1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flajumate.ro%2F&amp;ref=https%3A%2F%2Flajumate.ro%2F&amp;tiba=Lajumate.ro%20%E2%80%A2%20Anun%C8%9Buri%20Gratuite%20%E2%86%92%20Vinzi%20%C8%99i%20cumperi%20rapid%20%E2%9C%94%EF%B8%8F&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://cookie-cdn.cookiepro.com/scripttemplates/6.15.0/otTCF.js"></script><style id="onetrust-style">#onetrust-banner-sdk{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-image:url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzQ4LjMzM3B4IiBoZWlnaHQ9IjM0OC4zMzNweCIgdmlld0JveD0iMCAwIDM0OC4zMzMgMzQ4LjMzNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzQ4LjMzMyAzNDguMzM0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZmlsbD0iIzU2NTY1NiIgZD0iTTMzNi41NTksNjguNjExTDIzMS4wMTYsMTc0LjE2NWwxMDUuNTQzLDEwNS41NDljMTUuNjk5LDE1LjcwNSwxNS42OTksNDEuMTQ1LDAsNTYuODVjLTcuODQ0LDcuODQ0LTE4LjEyOCwxMS43NjktMjguNDA3LDExLjc2OWMtMTAuMjk2LDAtMjAuNTgxLTMuOTE5LTI4LjQxOS0xMS43NjlMMTc0LjE2NywyMzEuMDAzTDY4LjYwOSwzMzYuNTYzYy03Ljg0Myw3Ljg0NC0xOC4xMjgsMTEuNzY5LTI4LjQxNiwxMS43NjljLTEwLjI4NSwwLTIwLjU2My0zLjkxOS0yOC40MTMtMTEuNzY5Yy0xNS42OTktMTUuNjk4LTE1LjY5OS00MS4xMzksMC01Ni44NWwxMDUuNTQtMTA1LjU0OUwxMS43NzQsNjguNjExYy0xNS42OTktMTUuNjk5LTE1LjY5OS00MS4xNDUsMC01Ni44NDRjMTUuNjk2LTE1LjY4Nyw0MS4xMjctMTUuNjg3LDU2LjgyOSwwbDEwNS41NjMsMTA1LjU1NEwyNzkuNzIxLDExLjc2N2MxNS43MDUtMTUuNjg3LDQxLjEzOS0xNS42ODcsNTYuODMyLDBDMzUyLjI1OCwyNy40NjYsMzUyLjI1OCw1Mi45MTIsMzM2LjU1OSw2OC42MTF6Ii8+PC9nPjwvc3ZnPg==");background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type="checkbox"]:checked,#onetrust-pc-sdk [type="checkbox"]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type="checkbox"]:disabled+label::before,#onetrust-pc-sdk [type="checkbox"]:disabled+label:after,#onetrust-pc-sdk [type="checkbox"]:disabled+label{pointer-events:none;opacity:0.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type="checkbox"]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type="checkbox"]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px 0.1ex}#onetrust-pc-sdk .toggle-always-active{opacity:0.6;cursor:default}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat}#onetrust-pc-sdk .ot-tooltip .ot-tooltiptext{visibility:hidden;width:120px;background-color:#555;color:#fff;text-align:center;padding:5px 0;border-radius:6px;position:absolute;z-index:1;bottom:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity 0.3s}#onetrust-pc-sdk .ot-tooltip .ot-tooltiptext::after{content:"";position:absolute;top:100%;left:50%;margin-left:-5px;border-width:5px;border-style:solid;border-color:#555 transparent transparent transparent}#onetrust-pc-sdk .ot-tooltip:hover .ot-tooltiptext{visibility:visible;opacity:1}#onetrust-pc-sdk .ot-tooltip{position:relative;display:inline-block;z-index:3}#onetrust-pc-sdk .ot-tooltip svg{color:grey;height:20px;width:20px}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:0.8em 2em;font-size:0.8em;line-height:1.2;cursor:pointer;-moz-transition:0.1s ease;-o-transition:0.1s ease;-webkit-transition:1s ease;transition:0.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,0.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}@media only screen and (min-width: 426px) and (max-width: 896px) and (orientation: landscape){#onetrust-pc-sdk p{font-size:0.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}
+#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:1rem}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}
+#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media (min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media (min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-one.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-one.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-one.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-one.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one.ot-sdk-columns{width:4.66666666667%}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-five.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-five.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-five.ot-sdk-columns{width:39.3333333333%}#onetrust-banner-sdk .ot-sdk-six.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-six.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-six.ot-sdk-columns{width:48%}#onetrust-banner-sdk .ot-sdk-seven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-seven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-seven.ot-sdk-columns{width:56.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}#onetrust-banner-sdk .ot-sdk-one-third.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one-third.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one-third.ot-sdk-column{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-two-thirds.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-two-thirds.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-two-thirds.ot-sdk-column{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-one-half.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one-half.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one-half.ot-sdk-column{width:48%}#onetrust-banner-sdk .ot-sdk-offset-by-one.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one.ot-sdk-columns{margin-left:8.66666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-two.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-two.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-two.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-two.ot-sdk-columns{margin-left:17.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-three.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-three.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-three.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-three.ot-sdk-columns{margin-left:26%}#onetrust-banner-sdk .ot-sdk-offset-by-four.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-four.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-four.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-four.ot-sdk-columns{margin-left:34.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-five.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-five.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-five.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-five.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-five.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-five.ot-sdk-columns{margin-left:43.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-six.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-six.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-six.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-six.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-six.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-six.ot-sdk-columns{margin-left:52%}#onetrust-banner-sdk .ot-sdk-offset-by-seven.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-seven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-seven.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-seven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-seven.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-seven.ot-sdk-columns{margin-left:60.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-eight.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-eight.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-eight.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-eight.ot-sdk-columns{margin-left:69.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-nine.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-nine.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-nine.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-nine.ot-sdk-columns{margin-left:78%}#onetrust-banner-sdk .ot-sdk-offset-by-ten.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-ten.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-ten.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-ten.ot-sdk-columns{margin-left:86.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-eleven.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-eleven.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-eleven.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-eleven.ot-sdk-columns{margin-left:95.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-one-third.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one-third.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one-third.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one-third.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-third.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-third.ot-sdk-columns{margin-left:34.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-two-thirds.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-two-thirds.ot-sdk-columns{margin-left:69.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-one-half.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one-half.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one-half.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one-half.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-half.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-half.ot-sdk-columns{margin-left:52%}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media (min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-banner-sdk input[type="submit"],#onetrust-banner-sdk input[type="reset"],#onetrust-banner-sdk input[type="button"],#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#onetrust-pc-sdk input[type="submit"],#onetrust-pc-sdk input[type="reset"],#onetrust-pc-sdk input[type="button"],#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy input[type="submit"],#ot-sdk-cookie-policy input[type="reset"],#ot-sdk-cookie-policy input[type="button"]{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:0.9em;font-weight:400;line-height:38px;letter-spacing:0.01em;text-decoration:none;white-space:nowrap;background-color:transparent;border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-banner-sdk input[type="submit"]:hover,#onetrust-banner-sdk input[type="reset"]:hover,#onetrust-banner-sdk input[type="button"]:hover,#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-banner-sdk input[type="submit"]:focus,#onetrust-banner-sdk input[type="reset"]:focus,#onetrust-banner-sdk input[type="button"]:focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-pc-sdk input[type="submit"]:hover,#onetrust-pc-sdk input[type="reset"]:hover,#onetrust-pc-sdk input[type="button"]:hover,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk input[type="submit"]:focus,#onetrust-pc-sdk input[type="reset"]:focus,#onetrust-pc-sdk input[type="button"]:focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:hover,#ot-sdk-cookie-policy input[type="submit"]:hover,#ot-sdk-cookie-policy input[type="reset"]:hover,#ot-sdk-cookie-policy input[type="button"]:hover,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy input[type="submit"]:focus,#ot-sdk-cookie-policy input[type="reset"]:focus,#ot-sdk-cookie-policy input[type="button"]:focus{color:#333;border-color:#888;opacity:0.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-banner-sdk input[type="submit"]:focus,#onetrust-banner-sdk input[type="reset"]:focus,#onetrust-banner-sdk input[type="button"]:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk input[type="submit"]:focus,#onetrust-pc-sdk input[type="reset"]:focus,#onetrust-pc-sdk input[type="button"]:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy input[type="submit"]:focus,#ot-sdk-cookie-policy input[type="reset"]:focus,#ot-sdk-cookie-policy input[type="button"]:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type="email"],#onetrust-banner-sdk input[type="number"],#onetrust-banner-sdk input[type="search"],#onetrust-banner-sdk input[type="text"],#onetrust-banner-sdk input[type="tel"],#onetrust-banner-sdk input[type="url"],#onetrust-banner-sdk input[type="password"],#onetrust-banner-sdk textarea,#onetrust-banner-sdk select,#onetrust-pc-sdk input[type="email"],#onetrust-pc-sdk input[type="number"],#onetrust-pc-sdk input[type="search"],#onetrust-pc-sdk input[type="text"],#onetrust-pc-sdk input[type="tel"],#onetrust-pc-sdk input[type="url"],#onetrust-pc-sdk input[type="password"],#onetrust-pc-sdk textarea,#onetrust-pc-sdk select,#ot-sdk-cookie-policy input[type="email"],#ot-sdk-cookie-policy input[type="number"],#ot-sdk-cookie-policy input[type="search"],#ot-sdk-cookie-policy input[type="text"],#ot-sdk-cookie-policy input[type="tel"],#ot-sdk-cookie-policy input[type="url"],#ot-sdk-cookie-policy input[type="password"],#ot-sdk-cookie-policy textarea,#ot-sdk-cookie-policy select{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type="email"],#onetrust-banner-sdk input[type="number"],#onetrust-banner-sdk input[type="search"],#onetrust-banner-sdk input[type="text"],#onetrust-banner-sdk input[type="tel"],#onetrust-banner-sdk input[type="url"],#onetrust-banner-sdk input[type="password"],#onetrust-banner-sdk textarea,#onetrust-pc-sdk input[type="email"],#onetrust-pc-sdk input[type="number"],#onetrust-pc-sdk input[type="search"],#onetrust-pc-sdk input[type="text"],#onetrust-pc-sdk input[type="tel"],#onetrust-pc-sdk input[type="url"],#onetrust-pc-sdk input[type="password"],#onetrust-pc-sdk textarea,#ot-sdk-cookie-policy input[type="email"],#ot-sdk-cookie-policy input[type="number"],#ot-sdk-cookie-policy input[type="search"],#ot-sdk-cookie-policy input[type="text"],#ot-sdk-cookie-policy input[type="tel"],#ot-sdk-cookie-policy input[type="url"],#ot-sdk-cookie-policy input[type="password"],#ot-sdk-cookie-policy textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk textarea,#onetrust-pc-sdk textarea,#ot-sdk-cookie-policy textarea{min-height:65px;padding-top:6px;padding-bottom:6px}#onetrust-banner-sdk input[type="email"]:focus,#onetrust-banner-sdk input[type="number"]:focus,#onetrust-banner-sdk input[type="search"]:focus,#onetrust-banner-sdk input[type="text"]:focus,#onetrust-banner-sdk input[type="tel"]:focus,#onetrust-banner-sdk input[type="url"]:focus,#onetrust-banner-sdk input[type="password"]:focus,#onetrust-banner-sdk textarea:focus,#onetrust-banner-sdk select:focus,#onetrust-pc-sdk input[type="email"]:focus,#onetrust-pc-sdk input[type="number"]:focus,#onetrust-pc-sdk input[type="search"]:focus,#onetrust-pc-sdk input[type="text"]:focus,#onetrust-pc-sdk input[type="tel"]:focus,#onetrust-pc-sdk input[type="url"]:focus,#onetrust-pc-sdk input[type="password"]:focus,#onetrust-pc-sdk textarea:focus,#onetrust-pc-sdk select:focus,#ot-sdk-cookie-policy input[type="email"]:focus,#ot-sdk-cookie-policy input[type="number"]:focus,#ot-sdk-cookie-policy input[type="search"]:focus,#ot-sdk-cookie-policy input[type="text"]:focus,#ot-sdk-cookie-policy input[type="tel"]:focus,#ot-sdk-cookie-policy input[type="url"]:focus,#ot-sdk-cookie-policy input[type="password"]:focus,#ot-sdk-cookie-policy textarea:focus,#ot-sdk-cookie-policy select:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-banner-sdk legend,#onetrust-pc-sdk label,#onetrust-pc-sdk legend,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy legend{display:block;margin-bottom:0.5rem;font-weight:600}#onetrust-banner-sdk fieldset,#onetrust-pc-sdk fieldset,#ot-sdk-cookie-policy fieldset{padding:0;border-width:0}#onetrust-banner-sdk input[type="checkbox"],#onetrust-banner-sdk input[type="radio"],#onetrust-pc-sdk input[type="checkbox"],#onetrust-pc-sdk input[type="radio"],#ot-sdk-cookie-policy input[type="checkbox"],#ot-sdk-cookie-policy input[type="radio"]{display:inline}#onetrust-banner-sdk label>.label-body,#onetrust-pc-sdk label>.label-body,#ot-sdk-cookie-policy label>.label-body{display:inline-block;margin-left:0.5rem;font-weight:normal}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ol,#onetrust-pc-sdk ol,#ot-sdk-cookie-policy ol{list-style:decimal inside}#onetrust-banner-sdk ol,#onetrust-banner-sdk ul,#onetrust-pc-sdk ol,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ol,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-banner-sdk ul ol,#onetrust-banner-sdk ol ol,#onetrust-banner-sdk ol ul,#onetrust-pc-sdk ul ul,#onetrust-pc-sdk ul ol,#onetrust-pc-sdk ol ol,#onetrust-pc-sdk ol ul,#ot-sdk-cookie-policy ul ul,#ot-sdk-cookie-policy ul ol,#ot-sdk-cookie-policy ol ol,#ot-sdk-cookie-policy ol ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk code,#onetrust-pc-sdk code,#ot-sdk-cookie-policy code{padding:0.2rem 0.5rem;margin:0 0.2rem;font-size:90%;white-space:nowrap;background:#f1f1f1;border:1px solid #e1e1e1;border-radius:4px}#onetrust-banner-sdk pre>code,#onetrust-pc-sdk pre>code,#ot-sdk-cookie-policy pre>code{display:block;padding:1rem 1.5rem;white-space:pre}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk .ot-sdk-u-full-width,#onetrust-pc-sdk .ot-sdk-u-full-width,#ot-sdk-cookie-policy .ot-sdk-u-full-width{width:100%;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-u-max-full-width,#onetrust-pc-sdk .ot-sdk-u-max-full-width,#ot-sdk-cookie-policy .ot-sdk-u-max-full-width{max-width:100%;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-u-pull-right,#onetrust-pc-sdk .ot-sdk-u-pull-right,#ot-sdk-cookie-policy .ot-sdk-u-pull-right{float:right}#onetrust-banner-sdk .ot-sdk-u-pull-left,#onetrust-pc-sdk .ot-sdk-u-pull-left,#ot-sdk-cookie-policy .ot-sdk-u-pull-left{float:left}#onetrust-banner-sdk hr,#onetrust-pc-sdk hr,#ot-sdk-cookie-policy hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid #e1e1e1}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-banner-sdk .ot-sdk-u-cf,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-u-cf,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-u-cf{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}
+.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}.ot-sdk-cookie-policy h3,.ot-sdk-cookie-policy h4,.ot-sdk-cookie-policy h6,.ot-sdk-cookie-policy p,.ot-sdk-cookie-policy li,.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy th,.ot-sdk-cookie-policy #cookie-policy-description,.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}.ot-sdk-cookie-policy h4{font-size:1.2em}.ot-sdk-cookie-policy h6{font-size:1em;margin-top:2em}.ot-sdk-cookie-policy th{min-width:75px}.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy a:hover{background:#fff}.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}.ot-sdk-cookie-policy .ot-mobile-border{display:none}.ot-sdk-cookie-policy section{margin-bottom:2em}.ot-sdk-cookie-policy table{border-collapse:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup{margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group-desc,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-table-header,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td{font-size:.9em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td a{font-size:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group{font-size:1em;margin-bottom:.6em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-title{margin-bottom:1.2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy>section{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th{min-width:75px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a:hover{background:#fff}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-mobile-border{display:none}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy section{margin-bottom:2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li{list-style:disc;margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li h4{display:inline-block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{border-collapse:inherit;margin:auto;border:1px solid #d7d7d7;border-radius:5px;border-spacing:initial;width:100%;overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border-bottom:1px solid #d7d7d7;border-right:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr th:last-child,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr td:last-child{border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:25%}.ot-sdk-cookie-policy[dir=rtl]{text-align:left}#ot-sdk-cookie-policy h3{font-size:1.5em}@media only screen and (max-width: 530px){.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) table,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tbody,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) th,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{display:block}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead tr{position:absolute;top:-9999px;left:-9999px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{margin:0 0 1em 0}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd),.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd) a{background:#f6f6f4}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:50%}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{position:absolute;height:100%;left:6px;width:40%;padding-right:10px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) .ot-mobile-border{display:inline-block;background-color:#e4e4e4;position:absolute;height:100%;top:0;left:45%;width:2px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{content:attr(data-label);font-weight:bold}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border:none;border-bottom:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{display:block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:auto}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{margin:0 0 1em 0}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{height:100%;width:40%;padding-right:10px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{content:attr(data-label);font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead tr{position:absolute;top:-9999px;left:-9999px;z-index:-9999}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:1px solid #d7d7d7;border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td:last-child{border-bottom:0px}}
+                
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h5,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group {
+                        color: #696969;
+                    }
+                    
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title {
+                            color: #696969;
+                        }
+                    
+            
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th {
+                            background-color: #F8F8F8;
+                        }
+                    
+            </style><meta http-equiv="origin-trial" content="A+b/H0b8RPXNaJgaNFpO0YOFuGK6myDQXlwnJB3SwzvNMfcndat4DZYMrP4ClJIzYWo3/yP2S+8FTZ/lpqbPAAEAAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxL6oBxcpn5rQDPKSAs+d0oxNyJYq2/4esBUh3Yx5z8QfcLu+AU8iFCXYRcr/CEEfDnkxxLTsvXPJFQBxHfvkgMAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9KPtG5kl3oLTk21xqynDPGQ5t18bSOpwt0w6kGa6dEWbuwjpffmdUpR3W+faZDubGT+KIk2do0BX2ca16x8qAcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A0OysezhLoCRYomumeYlubLurZTCmsjTb087OvtCy95jNM65cfEsbajrJnhaGwiTxhz38ZZbm+UhUwQuXfVPTg0AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="AxoOxdZQmIoA1WeAPDixRAeWDdgs7ZtVFfH2y19ziTgD1iaHE5ZGz2UdSjubkWvob9C5PrjUfkWi4ZSLgWk3Xg8AAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A7+rMYR5onPnACrz+niKSeFdH3xw1IyHo2AZSHmxrofRk9w4HcQPMYcpBUKu6OQ6zsdxf4m/vqa6tG6Na4OLpAQAAAB4eyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AwfG8hAcHnPa/kJ1Co0EvG/K0F9l1s2JZGiDLt2mhC3QI5Fh4qmsmSwrWObZFbRC9ieDaSLU6lHRxhGUF/i9sgoAAACBeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AwQ7dCmHkvR6FuOFxAuNnktYSQrGbL4dF+eBkrwNLALc69Wr//PnO1yzns3pjUoCaYbKHtVcnng2hU+8OUm0PAYAAACHeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AysVDPGQTLD/Scn78x4mLwB1tMfje5jwUpAAzGRpWsr1NzoN7MTFhT3ClmImi2svDZA7V6nWGIV8YTPsSRTe0wYAAACHeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051101.js?31061153" async=""></script><link rel="preload" href="https://adservice.google.ro/adsid/integrator.js?domain=lajumate.ro" as="script"><script type="text/javascript" src="https://adservice.google.ro/adsid/integrator.js?domain=lajumate.ro"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=lajumate.ro" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=lajumate.ro"></script><link rel="prefetch" href="https://dc724cfe9c04ee24c54dcedab5e909d4.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html"><link rel="prefetch" href="https://tpc.googlesyndication.com/safeframe/1-0-38/html/container.html"></head>
+			<body class="page_home">
+				
+	<div id="overlay" class="hidden_div"></div>
+	<div id="overlay_content" class="rounded shadow hidden_div"></div>
+
+		<div id="complete_header">
+			<div id="header_holder" class="default_dark_bg">
+				<header>
+					<div id="logo">
+													<a href="https://lajumate.ro">
+								<img src="https://media1.lajumate.ro/images/logo-ljm.png" alt="Lajumate.ro">
+							</a>
+												<small class="version">
+													</small>
+					</div>
+					<div class="menu_block">
+												  
+    <script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_menu_4f3b831708f85de3d36de867115607d519b96b90.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_asyncNotice_8c1efbe99b69755dcb5fa1bac7150a358bd36ab6.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_login_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_register_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_resetEmail_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_userNotifications_1512732afe2b18e024bb790dfa9e42c7976bd694.css');</script>
+									<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_menu_b6a48e0d43e115963f4c580a78de5f55a42d0dc2.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_asyncNotice_7c32d21e5925c598a9ae72fbb226933e744b7f88.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_login_c0239316f875dac24c070f6686284ef5af7546d4.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_register_6912312513274054bc72e06c1531f49dbcf0394c.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_resetEmail_8034a3e3fe344bc900d1f56108d4665cfb4cffdc.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_userNotifications_47828b493d16063f356168d29caeebd5df0fc214.js');</script>
+			<div id="menu_holder">
+    <ul id="menu">
+        <li>
+            <a href="https://jobzz.ro/locuri-de-munca-disponibile.html?utm_source=joburi_disponibile" target="_blank">Joburi disponibile</a>
+        </li>
+        <a style="display:none;" id="unsubscribe_action"></a> 
+         
+            <li id="account_menu_link">
+                <a href="https://lajumate.ro/anunturi_utilizator-3670207774ff.html" class="account_url has_arrow">
+                    <div class="account_img"><img src="https://media1.lajumate.ro/svg/account_icon.svg" alt="Ana Asmarandei"></div>
+                    Ana Asmarandei
+                    <i></i>
+                </a>
+                <ul id="account_dropdown" class="shadow rounded">
+                    <li class="user_amount">
+                        <div id="user_amount_holder"><span>Creditul tău:</span><i>0 €</i></div>
+                    </li>
+                    <li id="account_menu_fcm" class="fcm_button ">
+                        <span class="fcm_title"><img src="/svg/notification_bell_green.svg" alt="bell">Activează notificările</span>
+                        <span class="fcm_info">să afli instant tot ce te interesează</span>
+                        <a id="requestNotification" class="buttons btn_default_color rounded shadow" onclick="Fcm.openOverlay(true);" href="#">Activează</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/anunturi.html">Anunțurile mele</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/mesaje">Mesaje<i id="messages_notification"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/favorite">Favorite</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/setari">Setări cont</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/credit/incarcare">Încărcare credit</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/facturi.html">Plăți</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/curier.html">Curier</a>
+                    </li>
+                    <li class="menu_sep"></li>
+                    <li class="user_logout">
+                        <a href="https://lajumate.ro/cont/iesire-cont" onclick="_.removeStorage();">Ieşire din cont</a>
+                    </li>
+                </ul>   
+            </li>
+            <li id="to_messages">
+                <a href="https://lajumate.ro/cont/mesaje"><i></i></a>
+            </li>
+            
+        <li><a href="https://ajutor.lajumate.ro/" target="_blank" class="has_arrow">Ajutor</a></li>   
+    </ul>
+</div>
+    <script>
+        has_fav = 0;
+        if(has_fav && document.querySelector('#account_menu_link.fav')){
+            document.querySelector('#account_menu_link.fav').style.display = 'block';
+        }
+    </script>
+    	        	<script>
+		Notifications.show('{"messages":{"count":0,"sent":0,"received":0,"conversations":[]},"items":{"count":0,"active":0,"deleted":0,"pending":0,"waiting-payment":0}}');
+        setTimeout(function() {
+                Fcm.checkHasToken(Fcm.enableBtns, false);
+            }, 2000);
+
+	</script>
+
+														        			<a class="buttons add_btn btn_default_color rounded shadow" href="https://lajumate.ro/anunt/nou">Adaugă Anunţ <span class="add_btn_free rounded shadow">GRATUIT</span></a>
+						        			</div>
+							
+					</header>
+			</div>
+					</div>
+		
+	<div id="search_bar_holder" class="shadow default_bg">
+		<div id="search_bar">
+
+	        <form method="POST" action="https://lajumate.ro/anunturi.html" accept-charset="UTF-8" id="search_bar_form" autocomplete="off" onsubmit="Search.submit(event); return false;"><input name="_token" type="hidden" value="ziGchDPZsAxKM61dxRjXp1RDmsCO5B5SumGmooXJ">
+
+	        	<div id="hold_together">
+		            		                <div class="for_margin field q_container">
+                
+
+        
+            
+
+            <input class="text_input rounded shadow" id="search" placeholder="Caută pe Lajumate.ro" onkeyup="toggle_close(this, '#clear_search')" onclick="Search.init()" name="q" type="text" value="">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+	<div id="suggested_words" class="hidden_div shadow rounded"></div>
+
+		            		                <div class="for_margin field city_id_container">
+                
+
+        
+            
+
+            <input id="city_id" name="city_id" type="hidden" value="">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+		            		                <div class="for_margin field county_id_container">
+                
+
+        
+            
+
+            <input id="county_id" name="county_id" type="hidden" value="">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+		            		                <div class="for_margin field location_container">
+                
+
+        
+            
+
+            <input class="text_input rounded shadow" id="location" placeholder="Introdu locaţia..." name="location" type="text" value="Toată România">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+		            		                <div class="for_margin field params_container">
+                
+
+        
+            
+
+            <input id="params" name="params" type="hidden" value="[]">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+		            		    	
+		    				            <div id="default_cat" class="field">
+		            	<i class="cat_ico0"></i>
+		            	<span tabindex="0" id="categSelect" class="rounded shadow">Toate categoriile</span>
+		            	
+		            			            		<ul id="category_menu" class="select_menu shadow hidden_div">
+		            					            				<li class="">
+		            					<i class="cat_ico0"></i>
+		            					<a href="#" title="Toate" onclick="Filters.changeCateg(0); return false;">Toate</a>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico1"></i>
+		            					<a href="#" title="Auto-Moto-Nautic" onclick="Filters.changeCateg(1); return false;">Auto-Moto-Nautic</a>
+		            							            						<ul id="child1" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(1); return false;">Toate din Auto-Moto-Nautic</a></li>
+		            									            								<li><a href="#" title="Autoturisme" onclick="Filters.changeCateg(25); return false;">Autoturisme</a></li>
+		            									            								<li><a href="#" title="Motociclete - ATV - Scutere" onclick="Filters.changeCateg(26); return false;">Motociclete - ATV - Scutere</a></li>
+		            									            								<li><a href="#" title="Camioane - Utilitare - Bărci" onclick="Filters.changeCateg(27); return false;">Camioane - Utilitare - Bărci</a></li>
+		            									            								<li><a href="#" title="Piese - Accesorii - Consumabile" onclick="Filters.changeCateg(28); return false;">Piese - Accesorii - Consumabile</a></li>
+		            									            								<li><a href="#" title="Jante - Anvelope" onclick="Filters.changeCateg(29); return false;">Jante - Anvelope</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico2"></i>
+		            					<a href="#" title="Imobiliare" onclick="Filters.changeCateg(2); return false;">Imobiliare</a>
+		            							            						<ul id="child2" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(2); return false;">Toate din Imobiliare</a></li>
+		            									            								<li><a href="#" title="Garsoniere de închiriat" onclick="Filters.changeCateg(16); return false;">Garsoniere de închiriat</a></li>
+		            									            								<li><a href="#" title="Garsoniere de vânzare" onclick="Filters.changeCateg(17); return false;">Garsoniere de vânzare</a></li>
+		            									            								<li><a href="#" title="Apartamente de închiriat" onclick="Filters.changeCateg(18); return false;">Apartamente de închiriat</a></li>
+		            									            								<li><a href="#" title="Apartamente de vânzare" onclick="Filters.changeCateg(19); return false;">Apartamente de vânzare</a></li>
+		            									            								<li><a href="#" title="Case - Vile de închiriat" onclick="Filters.changeCateg(20); return false;">Case - Vile de închiriat</a></li>
+		            									            								<li><a href="#" title="Case - Vile de vânzare" onclick="Filters.changeCateg(21); return false;">Case - Vile de vânzare</a></li>
+		            									            								<li><a href="#" title="Terenuri" onclick="Filters.changeCateg(22); return false;">Terenuri</a></li>
+		            									            								<li><a href="#" title="Spații comerciale - Birouri" onclick="Filters.changeCateg(23); return false;">Spații comerciale - Birouri</a></li>
+		            									            								<li><a href="#" title="Alte tipuri de spații" onclick="Filters.changeCateg(24); return false;">Alte tipuri de spații</a></li>
+		            									            										            							<li><a href="#" title="Turism - Cazare" onclick="Filters.changeCateg(59); return false;" class="extra_categ">Turism - Cazare</a></li>
+		            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico3"></i>
+		            					<a href="#" title="Electronice-Electrocasnice" onclick="Filters.changeCateg(3); return false;">Electronice-Electrocasnice</a>
+		            							            						<ul id="child3" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(3); return false;">Toate din Electronice-Electrocasnice</a></li>
+		            									            								<li><a href="#" title="Laptop - PC - Periferice" onclick="Filters.changeCateg(39); return false;">Laptop - PC - Periferice</a></li>
+		            									            								<li><a href="#" title="Telefoane" onclick="Filters.changeCateg(40); return false;">Telefoane</a></li>
+		            									            								<li><a href="#" title="Tablete - eReadere - Gadgeturi" onclick="Filters.changeCateg(41); return false;">Tablete - eReadere - Gadgeturi</a></li>
+		            									            								<li><a href="#" title="TV - Audio - Foto - Video" onclick="Filters.changeCateg(42); return false;">TV - Audio - Foto - Video</a></li>
+		            									            								<li><a href="#" title="Jocuri - Console" onclick="Filters.changeCateg(43); return false;">Jocuri - Console</a></li>
+		            									            								<li><a href="#" title="Electrocasnice" onclick="Filters.changeCateg(44); return false;">Electrocasnice</a></li>
+		            									            								<li><a href="#" title="Echipamente de birou" onclick="Filters.changeCateg(60); return false;">Echipamente de birou</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico4"></i>
+		            					<a href="#" title="Casă-Gradină" onclick="Filters.changeCateg(4); return false;">Casă-Gradină</a>
+		            							            						<ul id="child4" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(4); return false;">Toate din Casă-Gradină</a></li>
+		            									            								<li><a href="#" title="Mobilă - Decorațiuni" onclick="Filters.changeCateg(45); return false;">Mobilă - Decorațiuni</a></li>
+		            									            								<li><a href="#" title="Grădină - Plante - Pomi" onclick="Filters.changeCateg(46); return false;">Grădină - Plante - Pomi</a></li>
+		            									            								<li><a href="#" title="Renovări - Construcții - Bricolaj" onclick="Filters.changeCateg(47); return false;">Renovări - Construcții - Bricolaj</a></li>
+		            									            								<li><a href="#" title="Climatizare - Electrice" onclick="Filters.changeCateg(48); return false;">Climatizare - Electrice</a></li>
+		            									            								<li><a href="#" title="Menaj - Uz casnic" onclick="Filters.changeCateg(49); return false;">Menaj - Uz casnic</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico5"></i>
+		            					<a href="#" title="Modă-Frumusețe" onclick="Filters.changeCateg(5); return false;">Modă-Frumusețe</a>
+		            							            						<ul id="child5" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(5); return false;">Toate din Modă-Frumusețe</a></li>
+		            									            								<li><a href="#" title="Îmbrăcăminte" onclick="Filters.changeCateg(30); return false;">Îmbrăcăminte</a></li>
+		            									            								<li><a href="#" title="Încălțăminte" onclick="Filters.changeCateg(31); return false;">Încălțăminte</a></li>
+		            									            								<li><a href="#" title="Accesorii - Bijuterii" onclick="Filters.changeCateg(32); return false;">Accesorii - Bijuterii</a></li>
+		            									            								<li><a href="#" title="Cosmetice - Îngrijire personală" onclick="Filters.changeCateg(33); return false;">Cosmetice - Îngrijire personală</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico6"></i>
+		            					<a href="#" title="Mămici și pitici" onclick="Filters.changeCateg(6); return false;">Mămici și pitici</a>
+		            							            						<ul id="child6" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(6); return false;">Toate din Mămici și pitici</a></li>
+		            									            								<li><a href="#" title="Haine - Încălțăminte - Accesorii" onclick="Filters.changeCateg(34); return false;">Haine - Încălțăminte - Accesorii</a></li>
+		            									            								<li><a href="#" title="Alimentație - Igienă" onclick="Filters.changeCateg(35); return false;">Alimentație - Igienă</a></li>
+		            									            								<li><a href="#" title="Plimbare - Joacă" onclick="Filters.changeCateg(36); return false;">Plimbare - Joacă</a></li>
+		            									            								<li><a href="#" title="Camera copilului - Școală" onclick="Filters.changeCateg(37); return false;">Camera copilului - Școală</a></li>
+		            									            								<li><a href="#" title="Pentru Mămici" onclick="Filters.changeCateg(38); return false;">Pentru Mămici</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico7"></i>
+		            					<a href="#" title="Afaceri-Servicii" onclick="Filters.changeCateg(7); return false;">Afaceri-Servicii</a>
+		            							            						<ul id="child7" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(7); return false;">Toate din Afaceri-Servicii</a></li>
+		            									            								<li><a href="#" title="Prestări servicii" onclick="Filters.changeCateg(11); return false;">Prestări servicii</a></li>
+		            									            								<li><a href="#" title="Afaceri - Echipamente profesionale" onclick="Filters.changeCateg(12); return false;">Afaceri - Echipamente profesionale</a></li>
+		            									            								<li><a href="#" title="Tehnică medicală" onclick="Filters.changeCateg(13); return false;">Tehnică medicală</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico8"></i>
+		            					<a href="#" title="Locuri de muncă" onclick="Filters.changeCateg(8); return false;">Locuri de muncă</a>
+		            							            						<ul id="child8" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(8); return false;">Toate din Locuri de muncă</a></li>
+		            									            								<li><a href="#" title="Muncă în România" onclick="Filters.changeCateg(14); return false;">Muncă în România</a></li>
+		            									            								<li><a href="#" title="Muncă în străinătate" onclick="Filters.changeCateg(15); return false;">Muncă în străinătate</a></li>
+		            									            								<li><a href="#" title="Căutări locuri de muncă" onclick="Filters.changeCateg(62); return false;">Căutări locuri de muncă</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico9"></i>
+		            					<a href="#" title="Animale-Agro-Industrie" onclick="Filters.changeCateg(9); return false;">Animale-Agro-Industrie</a>
+		            							            						<ul id="child9" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(9); return false;">Toate din Animale-Agro-Industrie</a></li>
+		            									            								<li><a href="#" title="Animale de companie" onclick="Filters.changeCateg(50); return false;">Animale de companie</a></li>
+		            									            								<li><a href="#" title="Animale domestice și păsări" onclick="Filters.changeCateg(51); return false;">Animale domestice și păsări</a></li>
+		            									            								<li><a href="#" title="Utilaje agricole - Industrie" onclick="Filters.changeCateg(52); return false;">Utilaje agricole - Industrie</a></li>
+		            									            								<li><a href="#" title="Produse alimentare" onclick="Filters.changeCateg(53); return false;">Produse alimentare</a></li>
+		            									            								<li><a href="#" title="Alte agro" onclick="Filters.changeCateg(54); return false;">Alte agro</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            				<li class="childs">
+		            					<i class="cat_ico10"></i>
+		            					<a href="#" title="Sport-Hobby-Timpul tău liber" onclick="Filters.changeCateg(10); return false;">Sport-Hobby-Timpul tău liber</a>
+		            							            						<ul id="child10" class="shadow">
+		            							<li><a href="#" title="Toate din categorie" onclick="Filters.changeCateg(10); return false;">Toate din Sport-Hobby-Timpul tău liber</a></li>
+		            									            								<li><a href="#" title="Articole sportive - Timp liber" onclick="Filters.changeCateg(55); return false;">Articole sportive - Timp liber</a></li>
+		            									            								<li><a href="#" title="Cărți - Reviste - Filme" onclick="Filters.changeCateg(56); return false;">Cărți - Reviste - Filme</a></li>
+		            									            								<li><a href="#" title="Muzică - Instrumente muzicale" onclick="Filters.changeCateg(57); return false;">Muzică - Instrumente muzicale</a></li>
+		            									            								<li><a href="#" title="Obiecte de colecție - Antichități" onclick="Filters.changeCateg(58); return false;">Obiecte de colecție - Antichități</a></li>
+		            									            								<li><a href="#" title="Turism - Cazare" onclick="Filters.changeCateg(59); return false;">Turism - Cazare</a></li>
+		            									            								<li><a href="#" title="Biciclete și accesorii" onclick="Filters.changeCateg(61); return false;">Biciclete și accesorii</a></li>
+		            									            									            						</ul>
+		            							            				</li>
+		            					            		</ul>
+		            			            </div>
+
+		            <input class="buttons search_btn light_green rounded shadow" type="submit" value="Caută">
+		            
+		            <a href="#" id="clear_search" onclick="Filters.clearSearch(3); return false;" style="display: none;"></a>
+		            <a href="#" id="clear_search_location" onclick="Filters.clearSearch(1); return false;" style="display: none;"></a>
+		            <a href="#" id="clear_search_category" onclick="Filters.clearSearch(2); return false;"></a>
+	            </div>
+
+	            <div id="outside_filters" class="hidden_div"></div>
+
+	        </form>
+
+				
+	<div id="location_map" class="hidden_div">            
+		<i></i>
+		<a class="close_btn" onclick="Overlay.close(); return false;" href="#"></a>
+		<div id="map_holder"></div>
+
+		<div id="location_area_holder">
+    		<div id="popup_location" class="popup_location no_info">
+	
+	
+			<div class="counties_grup">
+							<a id="title_0" class="counties_common bold_text" href="#" onclick="LocationMap.manageLocations(0, 0, 1, ''); return false;">Toată România</a>
+							<a id="title_1" class="counties_common" href="#" onclick="LocationMap.manageLocations(1, 0, 0, ''); return false;">Alba</a>
+							<a id="title_2" class="counties_common" href="#" onclick="LocationMap.manageLocations(2, 0, 0, ''); return false;">Arad</a>
+							<a id="title_3" class="counties_common" href="#" onclick="LocationMap.manageLocations(3, 0, 0, ''); return false;">Arges</a>
+							<a id="title_4" class="counties_common" href="#" onclick="LocationMap.manageLocations(4, 0, 0, ''); return false;">Bacau</a>
+							<a id="title_5" class="counties_common" href="#" onclick="LocationMap.manageLocations(5, 0, 0, ''); return false;">Bihor</a>
+							<a id="title_6" class="counties_common" href="#" onclick="LocationMap.manageLocations(6, 0, 0, ''); return false;">Bistrita-Nasaud</a>
+							<a id="title_7" class="counties_common" href="#" onclick="LocationMap.manageLocations(7, 0, 0, ''); return false;">Botosani</a>
+							<a id="title_8" class="counties_common" href="#" onclick="LocationMap.manageLocations(8, 0, 0, ''); return false;">Braila</a>
+							<a id="title_9" class="counties_common" href="#" onclick="LocationMap.manageLocations(9, 0, 0, ''); return false;">Brasov</a>
+							<a id="title_25" class="counties_common" href="#" onclick="LocationMap.manageLocations(25, 0, 0, ''); return false;">Bucuresti-Ilfov</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_10" class="counties_common" href="#" onclick="LocationMap.manageLocations(10, 0, 0, ''); return false;">Buzau</a>
+							<a id="title_11" class="counties_common" href="#" onclick="LocationMap.manageLocations(11, 0, 0, ''); return false;">Calarasi</a>
+							<a id="title_12" class="counties_common" href="#" onclick="LocationMap.manageLocations(12, 0, 0, ''); return false;">Caras-Severin</a>
+							<a id="title_13" class="counties_common" href="#" onclick="LocationMap.manageLocations(13, 0, 0, ''); return false;">Cluj</a>
+							<a id="title_14" class="counties_common" href="#" onclick="LocationMap.manageLocations(14, 0, 0, ''); return false;">Constanta</a>
+							<a id="title_15" class="counties_common" href="#" onclick="LocationMap.manageLocations(15, 0, 0, ''); return false;">Covasna</a>
+							<a id="title_16" class="counties_common" href="#" onclick="LocationMap.manageLocations(16, 0, 0, ''); return false;">Dambovita</a>
+							<a id="title_17" class="counties_common" href="#" onclick="LocationMap.manageLocations(17, 0, 0, ''); return false;">Dolj</a>
+							<a id="title_18" class="counties_common" href="#" onclick="LocationMap.manageLocations(18, 0, 0, ''); return false;">Galati</a>
+							<a id="title_19" class="counties_common" href="#" onclick="LocationMap.manageLocations(19, 0, 0, ''); return false;">Giurgiu</a>
+							<a id="title_20" class="counties_common" href="#" onclick="LocationMap.manageLocations(20, 0, 0, ''); return false;">Gorj</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_21" class="counties_common" href="#" onclick="LocationMap.manageLocations(21, 0, 0, ''); return false;">Harghita</a>
+							<a id="title_22" class="counties_common" href="#" onclick="LocationMap.manageLocations(22, 0, 0, ''); return false;">Hunedoara</a>
+							<a id="title_23" class="counties_common" href="#" onclick="LocationMap.manageLocations(23, 0, 0, ''); return false;">Ialomita</a>
+							<a id="title_24" class="counties_common" href="#" onclick="LocationMap.manageLocations(24, 0, 0, ''); return false;">Iasi</a>
+							<a id="title_26" class="counties_common" href="#" onclick="LocationMap.manageLocations(26, 0, 0, ''); return false;">Maramures</a>
+							<a id="title_27" class="counties_common" href="#" onclick="LocationMap.manageLocations(27, 0, 0, ''); return false;">Mehedinti</a>
+							<a id="title_28" class="counties_common" href="#" onclick="LocationMap.manageLocations(28, 0, 0, ''); return false;">Mures</a>
+							<a id="title_29" class="counties_common" href="#" onclick="LocationMap.manageLocations(29, 0, 0, ''); return false;">Neamt</a>
+							<a id="title_30" class="counties_common" href="#" onclick="LocationMap.manageLocations(30, 0, 0, ''); return false;">Olt</a>
+							<a id="title_31" class="counties_common" href="#" onclick="LocationMap.manageLocations(31, 0, 0, ''); return false;">Prahova</a>
+							<a id="title_32" class="counties_common" href="#" onclick="LocationMap.manageLocations(32, 0, 0, ''); return false;">Salaj</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_33" class="counties_common" href="#" onclick="LocationMap.manageLocations(33, 0, 0, ''); return false;">Satu-Mare</a>
+							<a id="title_34" class="counties_common" href="#" onclick="LocationMap.manageLocations(34, 0, 0, ''); return false;">Sibiu</a>
+							<a id="title_35" class="counties_common" href="#" onclick="LocationMap.manageLocations(35, 0, 0, ''); return false;">Suceava</a>
+							<a id="title_36" class="counties_common" href="#" onclick="LocationMap.manageLocations(36, 0, 0, ''); return false;">Teleorman</a>
+							<a id="title_37" class="counties_common" href="#" onclick="LocationMap.manageLocations(37, 0, 0, ''); return false;">Timis</a>
+							<a id="title_38" class="counties_common" href="#" onclick="LocationMap.manageLocations(38, 0, 0, ''); return false;">Tulcea</a>
+							<a id="title_39" class="counties_common" href="#" onclick="LocationMap.manageLocations(39, 0, 0, ''); return false;">Valcea</a>
+							<a id="title_40" class="counties_common" href="#" onclick="LocationMap.manageLocations(40, 0, 0, ''); return false;">Vaslui</a>
+							<a id="title_41" class="counties_common" href="#" onclick="LocationMap.manageLocations(41, 0, 0, ''); return false;">Vrancea</a>
+					</div>
+	
+	</div>    		<div id="cities_list_holder"></div>
+    	</div>
+    </div>
+		
+
+	        			
+        </div>
+    </div>
+
+			
+	<div id="home_categs_holder">
+		<div id="home_categs_bg" class="bottom_shadow default_bg"></div>
+		<div id="home_categs" class="rounded shadow">
+							<a id="cat_0" href="https://lajumate.ro/anunturi_auto-moto-nautic.html" class="rounded categ_holder">
+					<i></i>
+					<span>Auto-Moto-Nautic</span>
+				</a>
+							<a id="cat_1" href="https://lajumate.ro/anunturi_imobiliare.html" class="rounded categ_holder">
+					<i></i>
+					<span>Imobiliare</span>
+				</a>
+							<a id="cat_2" href="https://lajumate.ro/anunturi_electronice-electrocasnice.html" class="rounded categ_holder">
+					<i></i>
+					<span>Electronice-Electrocasnice</span>
+				</a>
+							<a id="cat_3" href="https://lajumate.ro/anunturi_casa-gradina.html" class="rounded categ_holder">
+					<i></i>
+					<span>Casă-Gradină</span>
+				</a>
+							<a id="cat_4" href="https://lajumate.ro/anunturi_moda-frumusete.html" class="rounded categ_holder">
+					<i></i>
+					<span>Modă-Frumusețe</span>
+				</a>
+							<a id="cat_5" href="https://lajumate.ro/anunturi_mamici-si-pitici.html" class="rounded categ_holder no_bottom">
+					<i></i>
+					<span>Mămici și pitici</span>
+				</a>
+							<a id="cat_6" href="https://lajumate.ro/anunturi_afaceri-servicii.html" class="rounded categ_holder no_bottom">
+					<i></i>
+					<span>Afaceri-Servicii</span>
+				</a>
+							<a id="cat_7" href="https://lajumate.ro/anunturi_locuri-de-munca.html" class="rounded categ_holder no_bottom">
+					<i></i>
+					<span>Locuri de muncă</span>
+				</a>
+							<a id="cat_8" href="https://lajumate.ro/anunturi_animale-agro-industrie.html" class="rounded categ_holder no_bottom">
+					<i></i>
+					<span>Animale-Agro-Industrie</span>
+				</a>
+							<a id="cat_9" href="https://lajumate.ro/anunturi_sport-hobby-timp-liber.html" class="rounded categ_holder no_bottom">
+					<i></i>
+					<span>Sport-Hobby-Timpul tău liber</span>
+				</a>
+					</div>
+
+	</div>
+		
+																	<div class="clear"></div>
+	<div id="container_holder">
+		<div id="container">
+					<div id="list_cart_holder">
+		<script type="text/javascript">
+	        is_list = true;
+	    </script>
+							<h2 class="list_type_headline promoted">Anunţuri promovate</h2>
+																								<a href="https://lajumate.ro/cercei-cu-dispozitiv-pentru-piercing-biluta-4mm-12998942.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image"><img src="https://media1.lajumate.ro/media/i/cart/2/129/12998942_cercei-cu-dispozitiv-pentru-piercing-biluta-4mm_6.jpg" alt="Cercei cu dispozitiv pentru piercing - Biluta 4mm"></div>
+																		            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>80 LEI</span>
+					    						    
+					    						<span id="title_ad_12998942_0" class="title">Cercei cu dispozitiv pentru piercing - Biluta 4mm</span>
+						<span class="pretty_tags">Cercei&nbsp; | &nbsp;unisex&nbsp; | &nbsp;nou</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12998942" onclick="share('https%3A%2F%2Flajumate.ro%2Fcercei-cu-dispozitiv-pentru-piercing-biluta-4mm-12998942.html', 'Cercei cu dispozitiv pentru piercing - Biluta 4mm'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12998942" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/cargo-bike-coffee-bike-afacere-mobila-cafenea-stand-12954214.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image"><img src="https://media1.lajumate.ro/media/i/cart/4/129/12954214_cargo-bike-coffee-bike-afacere-mobila-cafenea-stand_5.jpg" alt="Cargo Bike / Coffee Bike – Afacere mobila, cafenea, stand."></div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>6.300 LEI</span>
+					    						    
+					    						<span id="title_ad_12954214_0" class="title">Cargo Bike / Coffee Bike – Afacere mobila, cafenea, stand.</span>
+						<span class="pretty_tags">Negociabil</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Sibiu, Sibiu</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12954214" onclick="share('https%3A%2F%2Flajumate.ro%2Fcargo-bike-coffee-bike-afacere-mobila-cafenea-stand-12954214.html', 'Cargo Bike / Coffee Bike – Afacere mobila, cafenea, stand.'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12954214" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																		      			<a class="item_cart item_promo_list " href="https://eatzz.ro/descarca-aplicatia">
+	      				<img src="https://media1.lajumate.ro/media/pages/promolist/0/70_1618842473_descarca-aplicatia.jpg" alt="Descarcă aplicaţia!">
+			      		<span class="promo_list"><span>Descarcă aplicaţia!</span></span> 
+			      		<span class="description">eatZZ -  Livrare mancare</span>
+					</a>
+																													<a href="https://lajumate.ro/tv-sony-65xh9096-1639-cm-smart-android-4k-ultra-hd-led-12992062.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image"><img src="https://media1.lajumate.ro/media/i/cart/2/129/12992062_tv-sony-65xh9096-1639-cm-smart-android-4k-ultra-hd-led_3.jpg" alt="TV Sony 65XH9096, 163.9 cm, Smart Android, 4K Ultra HD, LED"></div>
+																		                <div class="courier_holder">
+				                    <div class="icon_holder"></div>
+				                    <span class="tooltip">Livrare cu verificare</span>
+				                </div>
+				            				            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>5.000 LEI</span>
+					    						    
+					    						<span id="title_ad_12992062_0" class="title">TV Sony 65XH9096, 163.9 cm, Smart Android, 4K Ultra HD, LED</span>
+						<span class="pretty_tags">Televizoare și accesorii</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Cluj-Napoca, Cluj</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12992062" onclick="share('https%3A%2F%2Flajumate.ro%2Ftv-sony-65xh9096-1639-cm-smart-android-4k-ultra-hd-led-12992062.html', 'TV Sony 65XH9096, 163.9 cm, Smart Android, 4K Ultra HD, LED'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12992062" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/proiectant-executie-mobilier-13016099.html" class="item_cart no_right">
+						
+						<div class="placeholder">
+							<div class="overflow_image"><img src="https://media2.lajumate.ro/media/i/cart/default/no_image_8.jpg" alt="Proiectant executie mobilier"></div>
+																		            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>800 EUR</span>
+					    						    
+					    						<span id="title_ad_13016099_0" class="title">Proiectant executie mobilier</span>
+						<span class="pretty_tags">Full time (normă întreagă)&nbsp; | &nbsp;mid-level&nbsp; | &nbsp;lemn / pvc</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13016099" onclick="share('https%3A%2F%2Flajumate.ro%2Fproiectant-executie-mobilier-13016099.html', 'Proiectant executie mobilier'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13016099" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/angajam-personal-cu-experienta-spalatorie-auto-13009414.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_13009414" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>2.000 LEI</span>
+					    						    
+					    						<span id="title_ad_13009414_0" class="title">Angajam personal cu experiența Spalatorie auto</span>
+						<span class="pretty_tags">Full time (normă întreagă)&nbsp; | &nbsp;maşini / auto</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13009414" onclick="share('https%3A%2F%2Flajumate.ro%2Fangajam-personal-cu-experienta-spalatorie-auto-13009414.html', 'Angajam personal cu experiența Spalatorie auto'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13009414" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/matematica-rezolvata-geometrie-clasa-a-viii-a-11197504.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_11197504" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>55 LEI</span>
+					    						    
+					    						<span id="title_ad_11197504_0" class="title">Matematica rezolvata geometrie clasa a VIII-a Iliescu Liana</span>
+						<span class="pretty_tags">Manuale - cursuri</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Timisoara, Timis</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_11197504" onclick="share('https%3A%2F%2Flajumate.ro%2Fmatematica-rezolvata-geometrie-clasa-a-viii-a-11197504.html', 'Matematica rezolvata geometrie clasa a VIII-a Iliescu Liana'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="11197504" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/catelusi-bichon-malteze-rasa-pura-13015717.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_13015717" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>1.200 LEI</span>
+					    						    
+					    						<span id="title_ad_13015717_0" class="title">Cățeluși Bichon Malteze rasă pură</span>
+						<span class="pretty_tags">Câini</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13015717" onclick="share('https%3A%2F%2Flajumate.ro%2Fcatelusi-bichon-malteze-rasa-pura-13015717.html', 'Cățeluși Bichon Malteze rasă pură'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13015717" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/vila-p1m-pantelimon-sos-cernica-la-6-minute-de-metrou-12543846.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12543846" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>189.000 EUR</span>
+					    						    
+					    						<span id="title_ad_12543846_0" class="title">Vila P+1+M Pantelimon Sos Cernica la 6 minute de Metrou</span>
+						<span class="pretty_tags">5 camere&nbsp; | &nbsp;230 m²&nbsp; | &nbsp;2009</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Pantelimon, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12543846" onclick="share('https%3A%2F%2Flajumate.ro%2Fvila-p1m-pantelimon-sos-cernica-la-6-minute-de-metrou-12543846.html', 'Vila P+1+M Pantelimon Sos Cernica la 6 minute de Metrou'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12543846" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/pompa-de-caldura-piscina-brillix-xhp-160-12233300.html" class="item_cart no_right">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12233300" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		                <div class="courier_holder lower_the_icon">
+				                    <div class="icon_holder"></div>
+				                    <span class="tooltip">Livrare cu verificare</span>
+				                </div>
+				            				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>6.000 LEI</span>
+					    						    
+					    						<span id="title_ad_12233300_0" class="title">Pompa de caldura piscina BRILLIX XHP 160</span>
+						<span class="pretty_tags"></span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Corbeanca, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12233300" onclick="share('https%3A%2F%2Flajumate.ro%2Fpompa-de-caldura-piscina-brillix-xhp-160-12233300.html', 'Pompa de caldura piscina BRILLIX XHP 160'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12233300" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  											<div class="clear"></div>
+					<div style="width: 960px; display: block; margin: 0 auto; padding: 30px 0 0 0; text-align: center; overflow: hidden;" class="hp_billboard_banner">
+						<!-- /62727623/Lajumate.ro-HP-Billboard -->
+						<div id="div-gpt-ad-1473842279772-0" data-google-query-id="CLOzwcP8yPACFQf5dwodcGMGAQ">
+							
+						<div id="google_ads_iframe_/62727623/Lajumate.ro-HP-Billboard_0__container__" style="border: 0pt none; display: inline-block; width: 970px; height: 250px;"><iframe frameborder="0" src="https://dc724cfe9c04ee24c54dcedab5e909d4.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/62727623/Lajumate.ro-HP-Billboard_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="970" height="250" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="4" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+					</div>
+																									<a href="https://lajumate.ro/pat-metalic-supraetajatsuprapus-12871867.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12871867" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		                <div class="courier_holder">
+				                    <div class="icon_holder"></div>
+				                    <span class="tooltip">Livrare cu verificare</span>
+				                </div>
+				            				            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>630 LEI</span>
+					    						    
+					    						<span id="title_ad_12871867_0" class="title">Pat metalic supraetajat/suprapus</span>
+						<span class="pretty_tags">Dormitor</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Costesti, Buzau</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12871867" onclick="share('https%3A%2F%2Flajumate.ro%2Fpat-metalic-supraetajatsuprapus-12871867.html', 'Pat metalic supraetajat/suprapus'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12871867" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																						<a class="item_new default_gray" href="https://lajumate.ro/anunt/nou">
+						<div class="new">
+							<span class="new_icon"></span>
+							<span class="new_text">Adaugă Anunțul Tău</span>
+							<span class="new_description">Doar la noi este 100% gratuit</span>
+						</div>
+					</a>
+																													<a href="https://lajumate.ro/firma-instalatii-gaz-proiectare-executie-13012912.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_13012912" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>10 LEI</span>
+					    						    
+					    						<span id="title_ad_13012912_0" class="title">Firma Instalatii Gaz, proiectare, executie</span>
+						<span class="pretty_tags">Construcții-amenajări</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13012912" onclick="share('https%3A%2F%2Flajumate.ro%2Ffirma-instalatii-gaz-proiectare-executie-13012912.html', 'Firma Instalatii Gaz, proiectare, executie'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13012912" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/confectioner-tamplarie-pvc-12629815.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12629815" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>2.400 LEI</span>
+					    						    
+					    						<span id="title_ad_12629815_0" class="title">Confectioner tamplarie  pvc</span>
+						<span class="pretty_tags">Full time (normă întreagă)&nbsp; | &nbsp;mid-level&nbsp; | &nbsp;producție</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Ploiesti, Prahova</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12629815" onclick="share('https%3A%2F%2Flajumate.ro%2Fconfectioner-tamplarie-pvc-12629815.html', 'Confectioner tamplarie  pvc'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12629815" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/apartament-3-camere-bloc-nou-proprietar-13000414.html" class="item_cart no_right">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_13000414" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>75.000 EUR</span>
+					    						    
+					    						<span id="title_ad_13000414_0" class="title">Apartament 3 camere, bloc NOU, PROPRIETAR</span>
+						<span class="pretty_tags">3 camere&nbsp; | &nbsp;90 m²&nbsp; | &nbsp;etajul 1&nbsp; | &nbsp;2008&nbsp; | &nbsp;decomandat</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Focsani, Vrancea</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13000414" onclick="share('https%3A%2F%2Flajumate.ro%2Fapartament-3-camere-bloc-nou-proprietar-13000414.html', 'Apartament 3 camere, bloc NOU, PROPRIETAR'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13000414" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/apartament-2-camere-curte-proprie-zona-calea-calarasilor-12575590.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12575590" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>115.000 EUR</span>
+					    						    
+					    						<span id="title_ad_12575590_0" class="title">Apartament 2 camere - curte proprie - zona Calea Calarasilor</span>
+						<span class="pretty_tags">2 camere&nbsp; | &nbsp;55 m²&nbsp; | &nbsp;parter&nbsp; | &nbsp;2019&nbsp; | &nbsp;decomandat</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12575590" onclick="share('https%3A%2F%2Flajumate.ro%2Fapartament-2-camere-curte-proprie-zona-calea-calarasilor-12575590.html', 'Apartament 2 camere - curte proprie - zona Calea Calarasilor'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12575590" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/apartament-2-camere-decomandat-acte-gata-biruintei-12928411.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12928411" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>54.900 EUR</span>
+					    						    
+					    						<span id="title_ad_12928411_0" class="title">Apartament 2 camere decomandat, acte gata - Biruintei.</span>
+						<span class="pretty_tags">2 camere&nbsp; | &nbsp;51 m²&nbsp; | &nbsp;parter/6&nbsp; | &nbsp;2020&nbsp; | &nbsp;decomandat</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Popesti Leordeni, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12928411" onclick="share('https%3A%2F%2Flajumate.ro%2Fapartament-2-camere-decomandat-acte-gata-biruintei-12928411.html', 'Apartament 2 camere decomandat, acte gata - Biruintei.'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12928411" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																											<a href="https://lajumate.ro/casa-boiereasca-480mpu-palatul-suter-parcul-carol-13018955.html" class="item_cart">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_13018955" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>465.000 EUR</span>
+					    						    
+					    						<span id="title_ad_13018955_0" class="title">Casa boiereasca 480mpu Palatul Suter- Parcul Carol</span>
+						<span class="pretty_tags">9 camere&nbsp; | &nbsp;480 m²&nbsp; | &nbsp;1905</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Bucuresti, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_13018955" onclick="share('https%3A%2F%2Flajumate.ro%2Fcasa-boiereasca-480mpu-palatul-suter-parcul-carol-13018955.html', 'Casa boiereasca 480mpu Palatul Suter- Parcul Carol'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="13018955" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  																		      			<a class="item_cart item_promo_list " href="https://lajumate.ro/aplicatie.html?utm_source=Homepage%20Lajumate&amp;utm_campaign=Anunt%20Aplicatie&amp;utm_medium=Liste%20Anunturi">
+	      				<img src="https://media1.lajumate.ro/media/pages/promolist/6/36_1475475722_.jpg" alt="">
+			      		<span class="promo_list"><span></span></span> 
+			      		<span class="description"></span>
+					</a>
+																													<a href="https://lajumate.ro/case-izvorani-zona-deosebit-de-frumoasa-acces-lacpadure-f-12008666.html" class="item_cart no_right">
+						
+						<div class="placeholder">
+							<div class="overflow_image">
+				                <div id="ad_img_loader_12008666" class="ad_img_loader">
+				                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+				                        <path fill="#00796b" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+				                            <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+				                        </path>
+				                    </svg>
+				                </div>				
+							</div>
+																		            				                <div class="validated_phone">
+				                    <div class="icon_validated_phone"></div>
+				                    <span class="tooltip">Număr de telefon verificat</span>
+				                </div>
+				            						</div>
+																		    		<span class="price shadow"><i>Preţ</i>130.000 EUR</span>
+					    						    
+					    						<span id="title_ad_12008666_0" class="title">Case Izvorani, zona deosebit de frumoasa acces lac/padure, f</span>
+						<span class="pretty_tags">4 camere&nbsp; | &nbsp;152 m²&nbsp; | &nbsp;2019</span>
+						<span class="location visible_div"><img src="https://media1.lajumate.ro/svg/location_pointer_light_gray.svg"> Izvorani, Bucuresti-Ilfov</span>
+						<span class="sharer">
+	<i class="fbcircle parent_tooltip">
+	    <span class="fb icons" id="facebook_btn_liste_12008666" onclick="share('https%3A%2F%2Flajumate.ro%2Fcase-izvorani-zona-deosebit-de-frumoasa-acces-lacpadure-f-12008666.html', 'Case Izvorani, zona deosebit de frumoasa acces lac/padure, f'); return false;"></span>
+	    <span class="tooltip">Distribuie anunțul</span>
+	</i>
+
+			<i class="save_buttoncircle parent_tooltip">
+			<span class="icons save_button actions_common rounded " data-id="12008666" data-action="add"></span>
+		    <span class="tooltip">Salvează anunțul</span>
+		</i>
+	</span>		  			</a>
+		  													<div class="clear"></div>
+				<script>
+            window['ads_imgs'] = '{"12998942":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/2\/129\/12998942_cercei-cu-dispozitiv-pentru-piercing-biluta-4mm_6.jpg","12954214":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/4\/129\/12954214_cargo-bike-coffee-bike-afacere-mobila-cafenea-stand_5.jpg","12992062":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/2\/129\/12992062_tv-sony-65xh9096-1639-cm-smart-android-4k-ultra-hd-led_3.jpg","13016099":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/default\/no_image_8.jpg","13009414":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/4\/130\/13009414_angajam-personal-cu-experienta-spalatorie-auto_1.jpg","11197504":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/4\/111\/11197504_matematica-rezolvata-geometrie-clasa-a-viii-a_11.jpg","13015717":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/7\/130\/13015717_catelusi-bichon-malteze-rasa-pura_1.jpg","12543846":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/6\/125\/12543846_vila-p1m-pantelimon-sos-cernica-la-6-minute-de-metrou_8.jpg","12233300":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/0\/122\/12233300_pompa-de-caldura-piscina-brillix-xhp-160_1.jpg","12871867":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/7\/128\/12871867_pat-metalic-supraetajatsuprapus_1.jpg","13012912":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/2\/130\/13012912_firma-instalatii-gaz-proiectare-executie_1.jpg","12629815":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/default\/no_image_8.jpg","13000414":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/4\/130\/13000414_apartament-3-camere-bloc-nou-proprietar_4.jpg","12575590":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/0\/125\/12575590_apartament-2-camere-curte-proprie-zona-calea-calarasilor_1.jpg","12928411":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/1\/129\/12928411_apartament-2-camere-decomandat-acte-gata-biruintei_1.jpg","13018955":"https:\/\/media2.lajumate.ro\/media\/i\/cart\/5\/130\/13018955_casa-boiereasca-480mpu-palatul-suter-parcul-carol_1.jpg","12008666":"https:\/\/media1.lajumate.ro\/media\/i\/cart\/6\/120\/12008666_case-izvorani-zona-deosebit-de-frumoasa-acces-lacpadure-f_29.jpg"}';
+        </script>        
+	</div>
+	<div class="all_items_block">
+		<a href="https://lajumate.ro/anunturi.html" class="buttons rounded shadow all_items">vezi toate anunțurile</a>
+	</div>
+	<div class="clear"></div>
+	<div style="width: 960px; display: block; margin: 0 auto; padding: 20px 0 50px 0; text-align: center; overflow: hidden;">
+		<!-- /62727623/Lajumate.ro-HP-Billboard1 -->
+		<div id="div-gpt-ad-1484649918402-0" data-google-query-id="CLSzwcP8yPACFQf5dwodcGMGAQ">
+			
+		<div id="google_ads_iframe_/62727623/Lajumate.ro-HP-Billboard1_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/62727623/Lajumate.ro-HP-Billboard1_0" title="3rd party ad content" name="google_ads_iframe_/62727623/Lajumate.ro-HP-Billboard1_0" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" data-google-container-id="5" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+	</div>
+  			<div id="home_categories_holder">
+		<h1 id="categs_head_text">Peste un milion de anunțuri gratuite pe Lajumate.ro</h1>
+		<span>Vezi toate anunţurile din categoria care te interesează.</span>
+		<ul>
+							<li id="category_1" style="background: url(/images/home-categories/category-1/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Auto-Moto-Nautic</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_auto-moto-nautic.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=auto" title="Peste 570.000 de anunturi"><span class="first_step"><strong>Peste 570.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_2" style="background: url(/images/home-categories/category-2/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Imobiliare</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_imobiliare.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=imobiliare" title=" + 200.000 de anunturi"><span class="first_step"><strong> + 200.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_3" style="background: url(/images/home-categories/category-3/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Electronice-Electrocasnice</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_electronice-electrocasnice.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=electronice" title=" + 100.000 de anunturi"><span class="first_step"><strong> + 100.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_4" style="background: url(/images/home-categories/category-4/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Casă-Gradină</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_casa-gradina.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=casa_gradina" title=" + 40.000 de anunturi"><span class="first_step"><strong> + 40.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_5" style="background: url(/images/home-categories/category-5/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Modă-Frumusețe</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_moda-frumusete.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=moda" title=" + 70.000 de anunturi"><span class="first_step"><strong> + 70.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_6" style="background: url(/images/home-categories/category-6/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Mămici și pitici</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_mamici-si-pitici.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=mamici" title=" + 30.000 de anunturi"><span class="first_step"><strong> + 30.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_7" style="background: url(/images/home-categories/category-7/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Afaceri-Servicii</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_afaceri-servicii.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=afaceri" title=" + 40.000 de anunturi"><span class="first_step"><strong> + 40.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_8" style="background: url(/images/home-categories/category-8/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Locuri de muncă</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_locuri-de-munca.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=munca" title=" + 10.000 de anunturi"><span class="first_step"><strong> + 10.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_9" style="background: url(/images/home-categories/category-9/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Animale-Agro-Industrie</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_animale-agro-industrie.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=agro" title=" + 60.000 de anunturi"><span class="first_step"><strong> + 60.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+							<li id="category_10" style="background: url(/images/home-categories/category-10/image-1.png) center center no-repeat;">
+					<div class="category_overlay"></div>
+					<div class="category_top">
+						<h3>Sport-Hobby-Timpul tău liber</h3>
+					</div>
+					<a class="category_button rounded" href="https://lajumate.ro/anunturi_sport-hobby-timp-liber.html?utm_source=HP&amp;utm_medium=sectiune&amp;utm_campaign=categorii_site&amp;utm_content=hobby" title="Peste 50.000 de anunturi"><span class="first_step"><strong>Peste 50.000</strong> de anunturi</span> <span class="second_step hidden_div"><strong>Vezi toate anunțurile</strong></span></a>
+				</li>
+					</ul>
+					<script type="text/javascript">
+				var homeCategoriesImages = [{"category_id":"1","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-1\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-1\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-1\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-1\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-1\/image-5.png"]},{"category_id":"2","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-2\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-2\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-2\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-2\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-2\/image-5.png"]},{"category_id":"3","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-3\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-3\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-3\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-3\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-3\/image-5.png"]},{"category_id":"4","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-4\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-4\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-4\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-4\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-4\/image-5.png"]},{"category_id":"5","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-5\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-5\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-5\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-5\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-5\/image-5.png"]},{"category_id":"6","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-6\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-6\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-6\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-6\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-6\/image-5.png"]},{"category_id":"7","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-7\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-7\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-7\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-7\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-7\/image-5.png"]},{"category_id":"8","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-8\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-8\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-8\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-8\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-8\/image-5.png"]},{"category_id":"9","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-9\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-9\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-9\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-9\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-9\/image-5.png"]},{"category_id":"10","images":["https:\/\/media1.lajumate.ro\/images\/home-categories\/category-10\/image-1.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-10\/image-2.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-10\/image-3.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-10\/image-4.png","https:\/\/media1.lajumate.ro\/images\/home-categories\/category-10\/image-5.png"]}]			</script>
+			</div>
+  	
+		
+  				<div class="clear"></div>
+		</div>
+	</div><iframe name="__cmpLocator" style="display: none;"></iframe>
+	<a id="to_top_arrow" href="#" onclick="scrollTu(document.body, 0, 700); return false;"></a>
+	<div class="clear"></div>
+			                
+                            
+        	<div id="footer_seo_holder">
+		<div id="footer_seo">
+						<ul id="seo_sections">
+                <li>
+                    <span>Categorii</span>
+                    <ul>
+                    	                            <li>
+                                <a href="https://lajumate.ro/anunturi_auto-moto-nautic.html">Auto-Moto-Nautic</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_imobiliare.html">Imobiliare</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_electronice-electrocasnice.html">Electronice-Electrocasnice</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_casa-gradina.html">Casă-Gradină</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_moda-frumusete.html">Modă-Frumusețe</a>
+                            </li>
+                                            </ul>
+                    <ul>
+                    	                            <li>
+                                <a href="https://lajumate.ro/anunturi_mamici-si-pitici.html">Mămici și pitici</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_afaceri-servicii.html">Afaceri-Servicii</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_locuri-de-munca.html">Locuri de muncă</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_animale-agro-industrie.html">Animale-Agro-Industrie</a>
+                            </li>
+                                                    <li>
+                                <a href="https://lajumate.ro/anunturi_sport-hobby-timp-liber.html">Sport-Hobby-Timpul tău liber</a>
+                            </li>
+                                            </ul>
+                </li>
+                <li class="large">
+                    <span>Top căutări</span>
+                    <ul>
+                    	                            	                            <li>
+	                                <a href="https://lajumate.ro/tag_iPhone+5s.html"><i>1.</i> iPhone 5s</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Bicicleta+pliabila.html"><i>2.</i> Bicicleta pliabila</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Bicicleta+electrica.html"><i>3.</i> Bicicleta electrica</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Cursiera.html"><i>4.</i> Cursiera</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_BMW+E90.html"><i>5.</i> BMW E90</a>
+	                            </li>
+                                                                        </ul>
+                    <ul>
+                    	                            	                            <li>
+	                                <a href="https://lajumate.ro/tag_Mercedes.html"><i>6.</i> Mercedes</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Audi+a4.html"><i>7.</i> Audi a4</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Boxe.html"><i>8.</i> Boxe</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Bmw.html"><i>9.</i> Bmw</a>
+	                            </li>
+                                                                                	                            <li>
+	                                <a href="https://lajumate.ro/tag_Iphone+4.html"><i>10.</i> Iphone 4</a>
+	                            </li>
+                                                                        </ul>
+                    <ul class="no_right">
+                    	                    			                            <li>
+	                                <a href="https://lajumate.ro/tag_Golf+4.html"><i>11.</i> Golf 4</a>
+	                            </li>
+                                                                        			                            <li>
+	                                <a href="https://lajumate.ro/tag_Passat.html"><i>12.</i> Passat</a>
+	                            </li>
+                                                                        			                            <li>
+	                                <a href="https://lajumate.ro/tag_Ceas.html"><i>13.</i> Ceas</a>
+	                            </li>
+                                                                        			                            <li>
+	                                <a href="https://lajumate.ro/tag_Tractoare.html"><i>14.</i> Tractoare</a>
+	                            </li>
+                                                                        			                            <li>
+	                                <a href="https://lajumate.ro/tag_Iphone+6s.html"><i>15.</i> Iphone 6s</a>
+	                            </li>
+                                                                        </ul>
+                </li>
+                                    <li id="locations_cont">
+                        <span>Locații</span>
+                        <div id="locations_seo">
+                                                            <a href="https://lajumate.ro/anunturi_in-bucuresti-ilfov.html" title="Anunțuri din Bucuresti-Ilfov">Bucuresti-Ilfov</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-cluj.html" title="Anunțuri din Cluj">Cluj</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-mures.html" title="Anunțuri din Mures">Mures</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-iasi.html" title="Anunțuri din Iasi">Iasi</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-timis.html" title="Anunțuri din Timis">Timis</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-prahova.html" title="Anunțuri din Prahova">Prahova</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-brasov.html" title="Anunțuri din Brasov">Brasov</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-constanta.html" title="Anunțuri din Constanta">Constanta</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-arad.html" title="Anunțuri din Arad">Arad</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-suceava.html" title="Anunțuri din Suceava">Suceava</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-ialomita.html" title="Anunțuri din Ialomita">Ialomita</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-dolj.html" title="Anunțuri din Dolj">Dolj</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-bihor.html" title="Anunțuri din Bihor">Bihor</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-arges.html" title="Anunțuri din Arges">Arges</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-neamt.html" title="Anunțuri din Neamt">Neamt</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-sibiu.html" title="Anunțuri din Sibiu">Sibiu</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-maramures.html" title="Anunțuri din Maramures">Maramures</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-bacau.html" title="Anunțuri din Bacau">Bacau</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-galati.html" title="Anunțuri din Galati">Galati</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi_in-valcea.html" title="Anunțuri din Valcea">Valcea</a>
+                                                                    <span>,</span>
+                                                                                            <a href="https://lajumate.ro/anunturi.html" title="Anunțuri">Toate...</a>
+                                                                                    </div>
+                    </li>
+                            </ul>
+            <div id="intern-links">
+                <span><a href="https://lajumate.ro" title="Lajumate.ro • Anunțuri Gratuite → Vinzi și cumperi rapid ✔️">Lajumate.ro • Anunțuri Gratuite → Vinzi și cumperi rapid ✔️</a></span>
+                <p>Gaseste aici link-uri directe catre subsectiuni de pe Lajumate.ro pentru cele mai cautate tipuri de anunturi: imobiliare, auto, angajari, electronice, imbracaminte.</p>
+                <ul>
+                                            <li><a href="https://lajumate.ro/anunturi_autoturisme.html" title="Masini de vanzare">Masini de vanzare</a>, </li>
+                                            <li><a href="https://lajumate.ro/anunturi_telefoane.html" title="Telefoane">Telefoane</a>, </li>
+                                            <li><a href="https://lajumate.ro/anunturi_imbracaminte.html" title="Haine">Haine</a>, </li>
+                                            <li><a href="https://lajumate.ro/tag_tractor.html" title="Tractoare">Tractoare</a>, </li>
+                                            <li><a href="https://lajumate.ro/anunturi_garsoniere-de-inchiriat.html" title="Garsoniere de inchiriat">Garsoniere de inchiriat</a>, </li>
+                                            <li><a href="https://lajumate.ro/anunturi_munca-in-romania.html" title="Locuri de munca in Romania">Locuri de munca in Romania</a></li>
+                                                            <li>, <a href="https://lajumate.ro/cauta_regina+maria.html" title="regina maria">regina maria</a></li><li>, <a href="https://lajumate.ro/cauta_yves+rocher.html" title="yves rocher">yves rocher</a></li><li>, <a href="https://lajumate.ro/cauta_harry+potter.html" title="harry potter">harry potter</a></li><li>, <a href="https://lajumate.ro/cauta_new+yorker.html" title="new yorker">new yorker</a></li><li>, <a href="https://lajumate.ro/cauta_michael+jackson.html" title="michael jackson">michael jackson</a></li><li>, <a href="https://lajumate.ro/cauta_star+wars.html" title="star wars">star wars</a></li><li>, <a href="https://lajumate.ro/cauta_new+balance.html" title="new balance">new balance</a></li><li>, <a href="https://lajumate.ro/cauta_alba+ca+zapada.html" title="alba ca zapada">alba ca zapada</a></li><li>, <a href="https://lajumate.ro/cauta_mickey+mouse.html" title="mickey mouse">mickey mouse</a></li><li>, <a href="https://lajumate.ro/cauta_unghii+cu+gel.html" title="unghii cu gel">unghii cu gel</a></li>                                    </ul>
+            </div>
+                        
+            <div class="clear"></div>
+
+                        <div class="clear"></div>
+
+    	</div>
+    </div>
+
+        	<div id="add_new_holder" class="default_bg">
+		<div id="add_new_left">
+			<span>Vinzi ușor, faci bani rapid!</span>
+		</div>
+
+		<div id="add_new_right">
+			<a class="buttons add_btn btn_default_color rounded shadow" href="https://lajumate.ro/anunt/nou">Adaugă Anunţ</a>
+		</div>
+    </div>
+
+        
+	
+	<input type="hidden" name="youtube_url" id="youtube_url" value="kFrBgmMsP1A">
+
+	<div id="promoting_campaign">
+		<div id="promoting_campaign_container">
+			<div class="campaign_headline">
+								<span class="campaign_headline_icon"></span><h4>eatZZ prezintă: UNUL PENTRU ALTUL</h4>
+			</div>
+			<div id="promoting_campaign_holder">
+				
+									<a id="promote_1" class="promote active " href="javascript:void(0);" onclick="" style="cursor: default;">
+						<img src="https://media1.lajumate.ro/images/youtube_promote/eatzz/promote-image-1-1.png?v=1">
+																	</a>
+									<a id="promote_2" class="promote active " href="javascript:void(0);" onclick="" style="cursor: default;">
+						<img src="https://media1.lajumate.ro/images/youtube_promote/eatzz/promote-image-2-1.png?v=1">
+																	</a>
+									<a id="promote_3" class="promote active no_margin_right" href="javascript:void(0);" onclick="PromotingCampaign.openOverlay(3);" style="">
+						<img src="https://media1.lajumate.ro/images/youtube_promote/eatzz/promote-image-3-1.png?v=1">
+																			<div class="promote_play"><span class="arrow_right"></span></div>
+											</a>
+							</div>
+			<a id="promoting_campaign_previous" class="promoting_campaign_navigation hidden_div" href="javascript:void(0);" onclick="PromotingCampaign.promotes('previous');"></a>
+			<a id="promoting_campaign_next" class="promoting_campaign_navigation hidden_div" href="javascript:void(0);" onclick="PromotingCampaign.promotes('next');"></a>
+		</div>
+	</div>
+
+			<div id="video_overlay_1" class="videos_overlay hidden_div">
+		</div>
+			<div id="video_overlay_2" class="videos_overlay hidden_div">
+		</div>
+			<div id="video_overlay_3" class="videos_overlay hidden_div">
+		</div>
+	
+
+                
+        			<div class="footer_newsletter">
+			<div class="footer_newsletter_content">
+				<div class="inputs_holder">
+					<span id="text_label">Abonare la newsletter</span>
+					<div class="text_input_container">
+						<label for="newsletter_email_address" id="label_newsletter_email_address"></label>
+						<input onkeyup="NewsletterSubscribe.keyup(event, 'footer');" placeholder="adresa de email" type="text" class="text_input" id="footer_newsletter_email_address" name="newsletter_email_address" value="">
+					</div>
+					<a href="#" onclick="NewsletterSubscribe.subscribe('footer'); return false;" class="shadow">Abonare</a>
+
+					<div id="footer_newsletter_message_holder" class="message_holder errors"> </div>
+				</div>
+			</div>
+		</div>
+	
+        <div id="footer_holder">
+            <footer>
+                <div id="footer_eatzz">
+                    <a href="https://eatzz.ro/?utm_source=lajumate&amp;utm_medium=Desktop&amp;utm_campaign=Footer" target="_blank" title="eatZZ"><img src="/images/eatzz_logo.png" alt="eatZZ"></a>
+                    <p><a href="https://eatzz.ro/?utm_source=lajumate&amp;utm_medium=Desktop&amp;utm_campaign=Footer" target="_blank" title="eatZZ">Mâncarea ta preferată e la doar un click distanță! Intră pe eatZZ și comandă chiar la tine acasă!</a></p>
+                </div>
+                <ul id="footer_sections">
+                    <li class="large">
+                        <span>Secțiuni Lajumate.ro<hr></span>
+                        <ul class="first">
+                        		                            <li>
+	                                <a href="https://lajumate.ro/anunturi_auto-moto-nautic.html">Auto-Moto-Nautic</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_imobiliare.html">Imobiliare</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_electronice-electrocasnice.html">Electronice-Electrocasnice</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_casa-gradina.html">Casă-Gradină</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_moda-frumusete.html">Modă-Frumusețe</a>
+	                            </li>
+                                                    </ul>
+                        <ul class="second">
+                        		                            <li>
+	                                <a href="https://lajumate.ro/anunturi_mamici-si-pitici.html">Mămici și pitici</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_afaceri-servicii.html">Afaceri-Servicii</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_locuri-de-munca.html">Locuri de muncă</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_animale-agro-industrie.html">Animale-Agro-Industrie</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_sport-hobby-timp-liber.html">Sport-Hobby-Timpul tău liber</a>
+	                            </li>
+                                                    </ul>
+                    </li>
+                    <li>
+                        <span>De ajutor<hr></span>
+                        <ul>
+                                                        <li><a href="https://lajumate.ro/promovare.html">Promovarea anunțurilor</a></li>
+                            <li><a target="_blank" href="https://lajumate.ro/aplicatie.html" title="Aplicații: Android și iOS">Aplicații: Android și iOS</a></li>
+                            <li><a href="https://lajumate.ro/validare-telefon.html">Verificare telefon</a></li>
+	                        <li><a href="https://ajutor.lajumate.ro/" target="_blank">Ajutor</a></li>
+	                        <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/205191181-Reguli-de-utilizare">Reguli de utilizare</a></li>
+                            <li><a href="https://lajumate.ro/harta/judete">Harta judeţelor</a></li>
+                            <li><a href="https://lajumate.ro/harta/categorii">Hartă site</a></li>
+                                                    </ul>
+                    </li>
+                    <li>
+                        <span>Despre<hr></span>
+                        <ul>
+                            <li><a target="_blank" href="https://blog.lajumate.ro/" title="Blog">Blog</a></li>
+                            <li><a target="_blank" href="https://lajumate.ro/spoturi-tv.html" title="Campanii și spoturi TV">Campanii și spoturi TV</a></li>
+                            <li><a target="_blank" href="https://www.intactmediagroup.ro/diviziile-noastre/televiziune/">Antena TV</a></li>
+                            <li><a target="_blank" href="https://www.intactmediagroup.ro/despre-noi/">Intact Media Group</a></li>
+                            <li><a target="_blank" href="http://www.anpc.gov.ro/">ANPC</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/205190171-Termeni-si-conditii">Termeni și condiții</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/360005747974-Politica-de-cookies-Lajumate-ro">Politica de cookies</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/360004419594-Politica-de-confidențialitate-Lajumate-ro">Politica de confidențialitate</a></li>
+
+                            <li>
+                                <button id="ot-sdk-btn" onclick="Optanon.ToggleInfoDisplay();">Setări de confidențialitate</button>
+                            </li>
+
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/requests/new">Contact</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span>Aplicații disponibile<hr></span>
+                        <ul id="apps_links">
+                            <li>
+                                <a class="ios_icon" href="https://play.google.com/store/apps/details?id=ro.lajumate" target="_blank">
+                                    <i></i>
+                                    <span>Google Play</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="android_icon" href="https://itunes.apple.com/ro/app/lajumate.ro/id1047596900?mt=8" target="_blank">
+                                    <i></i>
+                                    <span>App Store</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="huawei_icon" href="https://appgallery.huawei.com/#/app/C101354241" target="_blank">
+                                    <i></i>
+                                    <span>AppGallery</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <div id="footer_social">
+                    <span>Urmărește-ne pe:</span>
+                    <div id="social_media">
+                        <a target="_blank" class="facebook_social" href="https://www.facebook.com/lajumate.ro">Facebook</a>
+                        <a target="_blank" class="twitter_social" href="https://www.twitter.com/lajumate_ro">Twitter</a>
+                        <a target="_blank" class="linkedIn_social" href="https://www.linkedin.com/company/lajumate-ro">LinkedIn</a>
+                        <a target="_blank" class="youtube_social" href="https://www.youtube.com/channel/UCHAMTJ2rQdSgoy94zJJ3mQQ">YouTube</a>
+                        <a target="_blank" class="instagram_social" href="https://instagram.com/lajumate.ro">Instagram</a>
+                        <a target="_blank" class="pinterest_social" href="https://www.pinterest.com/lajumate_ro">Pinterest</a>
+                    </div>
+                    <p id="copyright">© Intact Media Group</p>
+                </div>
+            </footer>
+        </div>
+        <!-- Start Google AdSense Custom Search Ads -->
+                <!-- End Google AdSense Custom Search Ads -->
+
+        <script type="text/javascript">
+            function termsUpdatedCookie() {
+                //if(CookieJar.get('acceptcookies_group_1') != 'false') {
+                    CookieJar.put('terms_updated', true, 30);
+                //}
+            }
+        </script>
+                    <div id="terms_updated">
+                Termenii și condițiile de pe site au fost actualizate. Detaliile complete sunt disponibile <a target="_blank" onclick="termsUpdatedCookie();" href="https://ajutor.lajumate.ro/hc/ro/articles/205190171-Termeni-si-conditii">aici</a>
+            </div>
+                <script src="https://ivm.antenaplay.ro/js/ova/inread.min.js"></script>
+
+         
+            <!-- /62727623/LaJumate.ro-Onescroll-Special -->
+            <div id="div-gpt-ad-1537362395059-0" style="height: 1px; width: 1px; display: none;" data-google-query-id="CLCzwcP8yPACFQf5dwodcGMGAQ">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1537362395059-0'); });
+                </script>
+            <div id="google_ads_iframe_/62727623/LaJumate.ro-Onescroll-Special_0__container__" style="border: 0pt none; width: 0px; height: 0px;"></div></div>
+            
+
+     
+
+    
+		<script type="text/javascript">
+		var dataLayer = [];
+
+					dataLayer.push({'pageTitle': 'home'});
+			</script>
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPLFVB"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MPLFVB');</script>
+	<!-- End Google Tag Manager -->
+
+<iframe name="__tcfapiLocator" title="CMP Locator" style="display: none;"></iframe>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","891172494566486");</script>
+<iframe src="https://creativecdn.com/tags?id=pr_ROmYQyE4AWq1FHdNIvaz_home" width="1" height="1" scrolling="no" frameborder="0" style="display: none;"></iframe><iframe height="0" width="0" src="https://pandg.tapad.com/tag?gdpr=1&amp;gdpr_consent=CPGLzSwPGLzSwAcABBENBaCsAP_AAH_AAChQH0Nf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrTPsbk2Mr7NKJ7PEinMbe2dYGH9_n93TuZKY7__8___z__-v_v____f_r-3_3__59X---_e_V399zLv9__3__A-UAkw1L4ALsSxwZJo0qhRAhCsJDoBQAUUAwtE1hAyuCnZXAR6ggYAITUBGBECDEFGLAIABAIAkIiAkAPBAIgCIBAACAFSAhAARsAgsALAwCAAUA0LECKAIQJCDI4KjlMCAiRaKCeysASi72NMIQyiwAoFH9FRgIlCCBYGQkLAA.f_gAD_gAAAAA&amp;referrer_url=https%3A%2F%2Flajumate.ro%2F&amp;page_url=https%3A%2F%2Flajumate.ro%2F&amp;owner=P%26G&amp;bp_id=antenatvgroup&amp;data=%7B%22category%22%3A%22home%22%7D" style="display: none;"></iframe><script type="text/javascript" id="">fbq("track","PageView");</script><div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div></div><iframe id="google_osd_static_frame_6021944743022" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

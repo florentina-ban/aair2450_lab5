@@ -1,0 +1,1305 @@
+<html lang="en"><head>
+		<title>Adauga Anunt Gratuit 👌 Lajumate.ro ✔️</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="ahrefs-site-verification" content="e9384b50ac29ca0726c289ee19bff92eed5b02a54e141c532c25693122af00f8">
+		<link rel="shortcut icon" href="/favicon.ico">
+		
+		 
+	      	 	      	 	 
+	      	 		<meta name="robots" content="index, follow">	
+							      	 	 
+	      	 		<meta name="description" content="Publică gratuit și rapid anunțul tău pe Lajumate.ro ✔️ în trei pași simpli: completezi câmpurile, adaugi cel puțin o imagine și apeși pe butonul „adaugă anunț”.">	
+							      	 	 
+	      	 		<meta name="keywords" content="Lajumate.ro, la jumate, la jumatate, jumate, jumatate, anunturi, anunturi gratuite, anunturi video, vanzari, vanzari online, cumparaturi online,">	
+							      	 	 
+	      	 		<meta name="google-site-verification" content="X2l8TQrjYJdFehIMVCoHpnkPuuvfd1sz8u6Ys6oUGfw">	
+							      	 	  
+	      	 		 
+      	 		 		<meta property="og:image" content="https://media1.lajumate.ro/images/lajumate-imagine-fb.png">
+      	 		 		      	 					    
+	    <meta name="p:domain_verify" content="8ccd4bbe61fd400593e11081c7ea8d2c">
+	    <meta property="fb:app_id" content="446315278875699">
+	    
+	    
+		<link href="https://fonts.googleapis.com/css?family=Roboto:700italic,700,400,400italic,500,500italic,300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+		<!-- CookiePro Cookies Consent Notice start for lajumate.ro -->
+		<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/891172494566486?v=2.9.39&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MPLFVB"></script><script src="https://cdn.cookielaw.org/consent/cmp.stub.js" charset="UTF-8"></script>
+		<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" charset="UTF-8" data-domain-script="42ba3b96-e410-4caf-aa24-bb68e30ecace"></script>
+
+		
+		<script src="https://pghub.io/js/pandg-sdk.js" type="text/javascript"></script>
+		<!-- CookiePro Cookies Consent Notice end for lajumate.ro -->
+
+		
+	    <script>
+			(function() {
+	          	var insertAdsByGoogleJs = function() {
+					var page = "add"; 
+					var pages = ['home', 'home_reset', 'home_unsubscribe', 'list', 'agencies', 'user_ads', 'details', 'location'];
+
+	          		if(page != '' && (pages.indexOf(page) !== -1) === true) {
+			            var element = document.createElement('script');
+			            var firstScript = document.getElementsByTagName('script')[0];
+			            
+			            element.async = true;
+			            element.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+
+			            firstScript.parentNode.insertBefore(element, firstScript);
+		            }
+	          	};
+		        
+		        // Run this in an interval (every 0.1s) just in case we are still waiting for consent
+		        var cnt = 0;
+		        var consentSetInterval = setInterval(function(){
+		            cnt += 1;
+		            // Bail if we have not gotten a consent response after 60 seconds.
+		            if(cnt === 600) {
+		              	clearInterval(consentSetInterval);
+		            }
+		            if(typeof window.__tcfapi !== 'undefined') { // Check if window.__tcfapi has been set
+		              	clearInterval(consentSetInterval);
+		              	window.__tcfapi('addEventListener', 2, function(tcData, listenerSuccess) {
+			                if(listenerSuccess) {
+				                if(tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'useractioncomplete') {
+				                    if(!tcData.gdprApplies) {
+				                      	// GDPR DOES NOT APPLY
+				                      	// Insert adsbygoogle.js onto the page.
+				                      	insertAdsByGoogleJs();
+				                    } else {
+					                    // GDPR DOES APPLY
+					                    // Purpose 1 refers to the storage and/or access of information on a device.
+					                    var hasDeviceStorageAndAccessConsent = tcData.purpose.consents[1] || false;
+					                    var hasGoogleAdvertisingProductsConsent = false;
+
+					                    // Google Requires Consent for Purpose 1
+					                    if(hasDeviceStorageAndAccessConsent) {
+					                        // GLOBAL VENDOR LIST - https://iabeurope.eu/vendor-list-tcf-v2-0/
+					                        // CHECK FOR GOOGLE ADVERTISING PRODUCTS CONSENT. (IAB Vendor ID 755)
+					                        hasGoogleAdvertisingProductsConsent = tcData.vendor.consents[755] || false;
+					                        // Check if the user gave Google Advertising Products consent (iab vendor 755)
+					                        if(hasGoogleAdvertisingProductsConsent) {
+					                          	// Insert adsbygoogle.js onto the page.
+					                          	insertAdsByGoogleJs();
+					                        }
+					                    }
+				                    }
+
+				                    //p&g
+									if(!tcData.gdprApplies) {
+										var metadata = {	
+								            gdpr: null,
+										    gdpr_consent: null,
+										    ccpa: null,
+										    bp_id: 'antenatvgroup'	
+								        };
+								    } else {
+										var metadata = {	
+								            gdpr: 1,
+										    gdpr_consent: tcData.tcString,
+										    ccpa: null,
+										    bp_id: 'antenatvgroup'		
+								        };
+								    }
+
+									var config = {
+					                    name: 'P&G',
+					                    pixelUrl: 'https://pandg.tapad.com/tag'
+					                };
+
+	                                var tagger = Tapad.init(metadata, config);
+
+					                var data = {
+									    category: 'add',
+					                };
+
+									tagger.sync(data);
+								}
+			                }
+		              	});
+		            }
+		            cnt++;
+		        }, 100);
+		    })();
+	    </script>
+
+		<!-- Google Firebase -->
+		<script src="//www.gstatic.com/firebasejs/4.6.2/firebase-app.js"></script>
+		<script src="//www.gstatic.com/firebasejs/4.6.2/firebase-messaging.js"></script>
+		
+					<script>isLoggedIn = true;</script>
+				
+		 
+			<link rel="stylesheet" href="https://media1.lajumate.ro/css/desktop/add_370a55bbb2f3e306eb5e00b546709a58f6e2a825.css">
+    			
+	    	    	 
+		        <script src="https://media1.lajumate.ro/js/desktop/add_60e2764f1ae7c230cebb299a7ce740d7761648af.js"></script><script src="https://cookie-cdn.cookiepro.com/scripttemplates/6.15.0/otBannerSdk.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cookie-cdn.cookiepro.com/scripttemplates/6.15.0/otTCF.js"></script>
+	    		    
+	    
+	    
+		
+		
+		
+	<style id="onetrust-style">#onetrust-banner-sdk{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#onetrust-banner-sdk .onetrust-vendors-list-handler{cursor:pointer;color:#1f96db;font-size:inherit;font-weight:bold;text-decoration:none;margin-left:5px}#onetrust-banner-sdk .onetrust-vendors-list-handler:hover{color:#1f96db}#onetrust-banner-sdk:focus{outline:2px solid #000;outline-offset:-2px}#onetrust-banner-sdk a:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-close-icon,#onetrust-pc-sdk .ot-close-icon,#ot-sync-ntfy .ot-close-icon{background-image:url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzQ4LjMzM3B4IiBoZWlnaHQ9IjM0OC4zMzNweCIgdmlld0JveD0iMCAwIDM0OC4zMzMgMzQ4LjMzNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzQ4LjMzMyAzNDguMzM0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZmlsbD0iIzU2NTY1NiIgZD0iTTMzNi41NTksNjguNjExTDIzMS4wMTYsMTc0LjE2NWwxMDUuNTQzLDEwNS41NDljMTUuNjk5LDE1LjcwNSwxNS42OTksNDEuMTQ1LDAsNTYuODVjLTcuODQ0LDcuODQ0LTE4LjEyOCwxMS43NjktMjguNDA3LDExLjc2OWMtMTAuMjk2LDAtMjAuNTgxLTMuOTE5LTI4LjQxOS0xMS43NjlMMTc0LjE2NywyMzEuMDAzTDY4LjYwOSwzMzYuNTYzYy03Ljg0Myw3Ljg0NC0xOC4xMjgsMTEuNzY5LTI4LjQxNiwxMS43NjljLTEwLjI4NSwwLTIwLjU2My0zLjkxOS0yOC40MTMtMTEuNzY5Yy0xNS42OTktMTUuNjk4LTE1LjY5OS00MS4xMzksMC01Ni44NWwxMDUuNTQtMTA1LjU0OUwxMS43NzQsNjguNjExYy0xNS42OTktMTUuNjk5LTE1LjY5OS00MS4xNDUsMC01Ni44NDRjMTUuNjk2LTE1LjY4Nyw0MS4xMjctMTUuNjg3LDU2LjgyOSwwbDEwNS41NjMsMTA1LjU1NEwyNzkuNzIxLDExLjc2N2MxNS43MDUtMTUuNjg3LDQxLjEzOS0xNS42ODcsNTYuODMyLDBDMzUyLjI1OCwyNy40NjYsMzUyLjI1OCw1Mi45MTIsMzM2LjU1OSw2OC42MTF6Ii8+PC9nPjwvc3ZnPg==");background-size:contain;background-repeat:no-repeat;background-position:center;height:12px;width:12px}#onetrust-banner-sdk .powered-by-logo,#onetrust-banner-sdk .ot-pc-footer-logo a,#onetrust-pc-sdk .powered-by-logo,#onetrust-pc-sdk .ot-pc-footer-logo a,#ot-sync-ntfy .powered-by-logo,#ot-sync-ntfy .ot-pc-footer-logo a{background-size:contain;background-repeat:no-repeat;background-position:center;height:25px;width:152px;display:block}#onetrust-banner-sdk h3 *,#onetrust-banner-sdk h4 *,#onetrust-banner-sdk h6 *,#onetrust-banner-sdk button *,#onetrust-banner-sdk a[data-parent-id] *,#onetrust-pc-sdk h3 *,#onetrust-pc-sdk h4 *,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy button *,#ot-sync-ntfy a[data-parent-id] *{font-size:inherit;font-weight:inherit;color:inherit}#onetrust-banner-sdk .ot-hide,#onetrust-pc-sdk .ot-hide,#ot-sync-ntfy .ot-hide{display:none !important}#onetrust-pc-sdk .ot-sdk-row .ot-sdk-column{padding:0}#onetrust-pc-sdk .ot-sdk-container{padding-right:0}#onetrust-pc-sdk .ot-sdk-row{flex-direction:initial;width:100%}#onetrust-pc-sdk [type="checkbox"]:checked,#onetrust-pc-sdk [type="checkbox"]:not(:checked){pointer-events:initial}#onetrust-pc-sdk [type="checkbox"]:disabled+label::before,#onetrust-pc-sdk [type="checkbox"]:disabled+label:after,#onetrust-pc-sdk [type="checkbox"]:disabled+label{pointer-events:none;opacity:0.7}#onetrust-pc-sdk #vendor-list-content{transform:translate3d(0, 0, 0)}#onetrust-pc-sdk li input[type="checkbox"]{z-index:1}#onetrust-pc-sdk li .ot-checkbox label{z-index:2}#onetrust-pc-sdk li .ot-checkbox input[type="checkbox"]{height:auto;width:auto}#onetrust-pc-sdk li .host-title a,#onetrust-pc-sdk li .ot-host-name a,#onetrust-pc-sdk li .accordion-text,#onetrust-pc-sdk li .ot-acc-txt{z-index:2;position:relative}#onetrust-pc-sdk input{margin:3px 0.1ex}#onetrust-pc-sdk .toggle-always-active{opacity:0.6;cursor:default}#onetrust-pc-sdk .pc-logo,#onetrust-pc-sdk .ot-pc-logo{height:60px;width:180px;background-position:center;background-size:contain;background-repeat:no-repeat}#onetrust-pc-sdk .ot-tooltip .ot-tooltiptext{visibility:hidden;width:120px;background-color:#555;color:#fff;text-align:center;padding:5px 0;border-radius:6px;position:absolute;z-index:1;bottom:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity 0.3s}#onetrust-pc-sdk .ot-tooltip .ot-tooltiptext::after{content:"";position:absolute;top:100%;left:50%;margin-left:-5px;border-width:5px;border-style:solid;border-color:#555 transparent transparent transparent}#onetrust-pc-sdk .ot-tooltip:hover .ot-tooltiptext{visibility:visible;opacity:1}#onetrust-pc-sdk .ot-tooltip{position:relative;display:inline-block;z-index:3}#onetrust-pc-sdk .ot-tooltip svg{color:grey;height:20px;width:20px}#onetrust-pc-sdk .screen-reader-only,#onetrust-pc-sdk .ot-scrn-rdr,.ot-sdk-cookie-policy .screen-reader-only,.ot-sdk-cookie-policy .ot-scrn-rdr{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}#onetrust-pc-sdk.ot-fade-in,.onetrust-pc-dark-filter.ot-fade-in,#onetrust-banner-sdk.ot-fade-in{animation-name:onetrust-fade-in;animation-duration:400ms;animation-timing-function:ease-in-out}#onetrust-pc-sdk.ot-hide{display:none !important}.onetrust-pc-dark-filter.ot-hide{display:none !important}#ot-sdk-btn.ot-sdk-show-settings,#ot-sdk-btn.optanon-show-settings{color:#68b631;border:1px solid #68b631;height:auto;white-space:normal;word-wrap:break-word;padding:0.8em 2em;font-size:0.8em;line-height:1.2;cursor:pointer;-moz-transition:0.1s ease;-o-transition:0.1s ease;-webkit-transition:1s ease;transition:0.1s ease}#ot-sdk-btn.ot-sdk-show-settings:hover,#ot-sdk-btn.optanon-show-settings:hover{color:#fff;background-color:#68b631}.onetrust-pc-dark-filter{background:rgba(0,0,0,0.5);z-index:2147483646;width:100%;height:100%;overflow:hidden;position:fixed;top:0;bottom:0;left:0}@keyframes onetrust-fade-in{0%{opacity:0}100%{opacity:1}}@media only screen and (min-width: 426px) and (max-width: 896px) and (orientation: landscape){#onetrust-pc-sdk p{font-size:0.75em}}#onetrust-banner-sdk .banner-option-input:focus+label{outline:1px solid #000;outline-style:auto}
+#onetrust-banner-sdk,#onetrust-pc-sdk,#ot-sdk-cookie-policy,#ot-sync-ntfy{font-size:1rem}#onetrust-banner-sdk *,#onetrust-banner-sdk ::after,#onetrust-banner-sdk ::before,#onetrust-pc-sdk *,#onetrust-pc-sdk ::after,#onetrust-pc-sdk ::before,#ot-sdk-cookie-policy *,#ot-sdk-cookie-policy ::after,#ot-sdk-cookie-policy ::before,#ot-sync-ntfy *,#ot-sync-ntfy ::after,#ot-sync-ntfy ::before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}#onetrust-banner-sdk div,#onetrust-banner-sdk span,#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-banner-sdk p,#onetrust-banner-sdk img,#onetrust-banner-sdk svg,#onetrust-banner-sdk button,#onetrust-banner-sdk section,#onetrust-banner-sdk a,#onetrust-banner-sdk label,#onetrust-banner-sdk input,#onetrust-banner-sdk ul,#onetrust-banner-sdk li,#onetrust-banner-sdk nav,#onetrust-banner-sdk table,#onetrust-banner-sdk thead,#onetrust-banner-sdk tr,#onetrust-banner-sdk td,#onetrust-banner-sdk tbody,#onetrust-banner-sdk .ot-main-content,#onetrust-banner-sdk .ot-toggle,#onetrust-banner-sdk #ot-content,#onetrust-banner-sdk #ot-pc-content,#onetrust-banner-sdk .checkbox,#onetrust-pc-sdk div,#onetrust-pc-sdk span,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#onetrust-pc-sdk p,#onetrust-pc-sdk img,#onetrust-pc-sdk svg,#onetrust-pc-sdk button,#onetrust-pc-sdk section,#onetrust-pc-sdk a,#onetrust-pc-sdk label,#onetrust-pc-sdk input,#onetrust-pc-sdk ul,#onetrust-pc-sdk li,#onetrust-pc-sdk nav,#onetrust-pc-sdk table,#onetrust-pc-sdk thead,#onetrust-pc-sdk tr,#onetrust-pc-sdk td,#onetrust-pc-sdk tbody,#onetrust-pc-sdk .ot-main-content,#onetrust-pc-sdk .ot-toggle,#onetrust-pc-sdk #ot-content,#onetrust-pc-sdk #ot-pc-content,#onetrust-pc-sdk .checkbox,#ot-sdk-cookie-policy div,#ot-sdk-cookie-policy span,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy p,#ot-sdk-cookie-policy img,#ot-sdk-cookie-policy svg,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy section,#ot-sdk-cookie-policy a,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy input,#ot-sdk-cookie-policy ul,#ot-sdk-cookie-policy li,#ot-sdk-cookie-policy nav,#ot-sdk-cookie-policy table,#ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy tr,#ot-sdk-cookie-policy td,#ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy .ot-main-content,#ot-sdk-cookie-policy .ot-toggle,#ot-sdk-cookie-policy #ot-content,#ot-sdk-cookie-policy #ot-pc-content,#ot-sdk-cookie-policy .checkbox,#ot-sync-ntfy div,#ot-sync-ntfy span,#ot-sync-ntfy h1,#ot-sync-ntfy h2,#ot-sync-ntfy h3,#ot-sync-ntfy h4,#ot-sync-ntfy h5,#ot-sync-ntfy h6,#ot-sync-ntfy p,#ot-sync-ntfy img,#ot-sync-ntfy svg,#ot-sync-ntfy button,#ot-sync-ntfy section,#ot-sync-ntfy a,#ot-sync-ntfy label,#ot-sync-ntfy input,#ot-sync-ntfy ul,#ot-sync-ntfy li,#ot-sync-ntfy nav,#ot-sync-ntfy table,#ot-sync-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntfy #ot-pc-content,#ot-sync-ntfy .checkbox{font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none}#onetrust-banner-sdk label:before,#onetrust-banner-sdk label:after,#onetrust-banner-sdk .checkbox:after,#onetrust-banner-sdk .checkbox:before,#onetrust-pc-sdk label:before,#onetrust-pc-sdk label:after,#onetrust-pc-sdk .checkbox:after,#onetrust-pc-sdk .checkbox:before,#ot-sdk-cookie-policy label:before,#ot-sdk-cookie-policy label:after,#ot-sdk-cookie-policy .checkbox:after,#ot-sdk-cookie-policy .checkbox:before,#ot-sync-ntfy label:before,#ot-sync-ntfy label:after,#ot-sync-ntfy .checkbox:after,#ot-sync-ntfy .checkbox:before{content:"";content:none}
+#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 20px;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{width:100%;float:left;box-sizing:border-box;padding:0;display:initial}@media (min-width: 400px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:90%;padding:0}}@media (min-width: 550px){#onetrust-banner-sdk .ot-sdk-container,#onetrust-pc-sdk .ot-sdk-container,#ot-sdk-cookie-policy .ot-sdk-container{width:100%}#onetrust-banner-sdk .ot-sdk-column,#onetrust-banner-sdk .ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-column,#onetrust-pc-sdk .ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-columns{margin-left:4%}#onetrust-banner-sdk .ot-sdk-column:first-child,#onetrust-banner-sdk .ot-sdk-columns:first-child,#onetrust-pc-sdk .ot-sdk-column:first-child,#onetrust-pc-sdk .ot-sdk-columns:first-child,#ot-sdk-cookie-policy .ot-sdk-column:first-child,#ot-sdk-cookie-policy .ot-sdk-columns:first-child{margin-left:0}#onetrust-banner-sdk .ot-sdk-one.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-one.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-one.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-one.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one.ot-sdk-columns{width:4.66666666667%}#onetrust-banner-sdk .ot-sdk-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-two.ot-sdk-columns{width:13.3333333333%}#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-three.ot-sdk-columns{width:22%}#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-four.ot-sdk-columns{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-five.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-five.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-five.ot-sdk-columns{width:39.3333333333%}#onetrust-banner-sdk .ot-sdk-six.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-six.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-six.ot-sdk-columns{width:48%}#onetrust-banner-sdk .ot-sdk-seven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-seven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-seven.ot-sdk-columns{width:56.6666666667%}#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eight.ot-sdk-columns{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-nine.ot-sdk-columns{width:74%}#onetrust-banner-sdk .ot-sdk-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-ten.ot-sdk-columns{width:82.6666666667%}#onetrust-banner-sdk .ot-sdk-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-eleven.ot-sdk-columns{width:91.3333333333%}#onetrust-banner-sdk .ot-sdk-twelve.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-twelve.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-twelve.ot-sdk-columns{width:100%;margin-left:0}#onetrust-banner-sdk .ot-sdk-one-third.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one-third.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one-third.ot-sdk-column{width:30.6666666667%}#onetrust-banner-sdk .ot-sdk-two-thirds.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-two-thirds.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-two-thirds.ot-sdk-column{width:65.3333333333%}#onetrust-banner-sdk .ot-sdk-one-half.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-one-half.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-one-half.ot-sdk-column{width:48%}#onetrust-banner-sdk .ot-sdk-offset-by-one.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one.ot-sdk-columns{margin-left:8.66666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-two.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-two.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-two.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-two.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-two.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-two.ot-sdk-columns{margin-left:17.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-three.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-three.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-three.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-three.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-three.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-three.ot-sdk-columns{margin-left:26%}#onetrust-banner-sdk .ot-sdk-offset-by-four.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-four.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-four.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-four.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-four.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-four.ot-sdk-columns{margin-left:34.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-five.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-five.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-five.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-five.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-five.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-five.ot-sdk-columns{margin-left:43.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-six.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-six.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-six.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-six.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-six.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-six.ot-sdk-columns{margin-left:52%}#onetrust-banner-sdk .ot-sdk-offset-by-seven.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-seven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-seven.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-seven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-seven.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-seven.ot-sdk-columns{margin-left:60.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-eight.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-eight.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-eight.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-eight.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-eight.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-eight.ot-sdk-columns{margin-left:69.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-nine.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-nine.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-nine.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-nine.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-nine.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-nine.ot-sdk-columns{margin-left:78%}#onetrust-banner-sdk .ot-sdk-offset-by-ten.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-ten.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-ten.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-ten.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-ten.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-ten.ot-sdk-columns{margin-left:86.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-eleven.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-eleven.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-eleven.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-eleven.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-eleven.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-eleven.ot-sdk-columns{margin-left:95.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-one-third.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one-third.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one-third.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one-third.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-third.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-third.ot-sdk-columns{margin-left:34.6666666667%}#onetrust-banner-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-two-thirds.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-two-thirds.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-two-thirds.ot-sdk-columns{margin-left:69.3333333333%}#onetrust-banner-sdk .ot-sdk-offset-by-one-half.ot-sdk-column,#onetrust-banner-sdk .ot-sdk-offset-by-one-half.ot-sdk-columns,#onetrust-pc-sdk .ot-sdk-offset-by-one-half.ot-sdk-column,#onetrust-pc-sdk .ot-sdk-offset-by-one-half.ot-sdk-columns,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-half.ot-sdk-column,#ot-sdk-cookie-policy .ot-sdk-offset-by-one-half.ot-sdk-columns{margin-left:52%}}#onetrust-banner-sdk h1,#onetrust-banner-sdk h2,#onetrust-banner-sdk h3,#onetrust-banner-sdk h4,#onetrust-banner-sdk h5,#onetrust-banner-sdk h6,#onetrust-pc-sdk h1,#onetrust-pc-sdk h2,#onetrust-pc-sdk h3,#onetrust-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy h5,#ot-sdk-cookie-policy h6{margin-top:0;font-weight:600;font-family:inherit}#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem;line-height:1.2}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem;line-height:1.25}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem;line-height:1.3}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem;line-height:1.35}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem;line-height:1.5}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem;line-height:1.6}@media (min-width: 550px){#onetrust-banner-sdk h1,#onetrust-pc-sdk h1,#ot-sdk-cookie-policy h1{font-size:1.5rem}#onetrust-banner-sdk h2,#onetrust-pc-sdk h2,#ot-sdk-cookie-policy h2{font-size:1.5rem}#onetrust-banner-sdk h3,#onetrust-pc-sdk h3,#ot-sdk-cookie-policy h3{font-size:1.5rem}#onetrust-banner-sdk h4,#onetrust-pc-sdk h4,#ot-sdk-cookie-policy h4{font-size:1.5rem}#onetrust-banner-sdk h5,#onetrust-pc-sdk h5,#ot-sdk-cookie-policy h5{font-size:1.5rem}#onetrust-banner-sdk h6,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h6{font-size:1.5rem}}#onetrust-banner-sdk p,#onetrust-pc-sdk p,#ot-sdk-cookie-policy p{margin:0 0 1em 0;font-family:inherit;line-height:normal}#onetrust-banner-sdk a,#onetrust-pc-sdk a,#ot-sdk-cookie-policy a{color:#565656;text-decoration:underline}#onetrust-banner-sdk a:hover,#onetrust-pc-sdk a:hover,#ot-sdk-cookie-policy a:hover{color:#565656;text-decoration:none}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button{margin-bottom:1rem;font-family:inherit}#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-banner-sdk input[type="submit"],#onetrust-banner-sdk input[type="reset"],#onetrust-banner-sdk input[type="button"],#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#onetrust-pc-sdk input[type="submit"],#onetrust-pc-sdk input[type="reset"],#onetrust-pc-sdk input[type="button"],#ot-sdk-cookie-policy .ot-sdk-button,#ot-sdk-cookie-policy button,#ot-sdk-cookie-policy input[type="submit"],#ot-sdk-cookie-policy input[type="reset"],#ot-sdk-cookie-policy input[type="button"]{display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:0.9em;font-weight:400;line-height:38px;letter-spacing:0.01em;text-decoration:none;white-space:nowrap;background-color:transparent;border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-button:hover,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-banner-sdk input[type="submit"]:hover,#onetrust-banner-sdk input[type="reset"]:hover,#onetrust-banner-sdk input[type="button"]:hover,#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-banner-sdk input[type="submit"]:focus,#onetrust-banner-sdk input[type="reset"]:focus,#onetrust-banner-sdk input[type="button"]:focus,#onetrust-pc-sdk .ot-sdk-button:hover,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:hover,#onetrust-pc-sdk input[type="submit"]:hover,#onetrust-pc-sdk input[type="reset"]:hover,#onetrust-pc-sdk input[type="button"]:hover,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk input[type="submit"]:focus,#onetrust-pc-sdk input[type="reset"]:focus,#onetrust-pc-sdk input[type="button"]:focus,#ot-sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:hover,#ot-sdk-cookie-policy input[type="submit"]:hover,#ot-sdk-cookie-policy input[type="reset"]:hover,#ot-sdk-cookie-policy input[type="button"]:hover,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy input[type="submit"]:focus,#ot-sdk-cookie-policy input[type="reset"]:focus,#ot-sdk-cookie-policy input[type="button"]:focus{color:#333;border-color:#888;opacity:0.7}#onetrust-banner-sdk .ot-sdk-button:focus,#onetrust-banner-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-banner-sdk input[type="submit"]:focus,#onetrust-banner-sdk input[type="reset"]:focus,#onetrust-banner-sdk input[type="button"]:focus,#onetrust-pc-sdk .ot-sdk-button:focus,#onetrust-pc-sdk :not(.ot-leg-btn-container)>button:focus,#onetrust-pc-sdk input[type="submit"]:focus,#onetrust-pc-sdk input[type="reset"]:focus,#onetrust-pc-sdk input[type="button"]:focus,#ot-sdk-cookie-policy .ot-sdk-button:focus,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:focus,#ot-sdk-cookie-policy input[type="submit"]:focus,#ot-sdk-cookie-policy input[type="reset"]:focus,#ot-sdk-cookie-policy input[type="button"]:focus{outline:2px solid #000}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-banner-sdk button.ot-sdk-button-primary,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary,#onetrust-pc-sdk button.ot-sdk-button-primary,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary,#ot-sdk-cookie-policy button.ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary{color:#fff;background-color:#33c3f0;border-color:#33c3f0}#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-banner-sdk button.ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-banner-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-banner-sdk button.ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-banner-sdk input[type="button"].ot-sdk-button-primary:focus,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:hover,#onetrust-pc-sdk button.ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:hover,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:hover,#onetrust-pc-sdk .ot-sdk-button.ot-sdk-button-primary:focus,#onetrust-pc-sdk button.ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="submit"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="reset"].ot-sdk-button-primary:focus,#onetrust-pc-sdk input[type="button"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy button.ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:hover,#ot-sdk-cookie-policy .ot-sdk-button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy button.ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="submit"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="reset"].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type="button"].ot-sdk-button-primary:focus{color:#fff;background-color:#1eaedb;border-color:#1eaedb}#onetrust-banner-sdk input[type="email"],#onetrust-banner-sdk input[type="number"],#onetrust-banner-sdk input[type="search"],#onetrust-banner-sdk input[type="text"],#onetrust-banner-sdk input[type="tel"],#onetrust-banner-sdk input[type="url"],#onetrust-banner-sdk input[type="password"],#onetrust-banner-sdk textarea,#onetrust-banner-sdk select,#onetrust-pc-sdk input[type="email"],#onetrust-pc-sdk input[type="number"],#onetrust-pc-sdk input[type="search"],#onetrust-pc-sdk input[type="text"],#onetrust-pc-sdk input[type="tel"],#onetrust-pc-sdk input[type="url"],#onetrust-pc-sdk input[type="password"],#onetrust-pc-sdk textarea,#onetrust-pc-sdk select,#ot-sdk-cookie-policy input[type="email"],#ot-sdk-cookie-policy input[type="number"],#ot-sdk-cookie-policy input[type="search"],#ot-sdk-cookie-policy input[type="text"],#ot-sdk-cookie-policy input[type="tel"],#ot-sdk-cookie-policy input[type="url"],#ot-sdk-cookie-policy input[type="password"],#ot-sdk-cookie-policy textarea,#ot-sdk-cookie-policy select{height:38px;padding:6px 10px;background-color:#fff;border:1px solid #d1d1d1;border-radius:4px;box-shadow:none;box-sizing:border-box}#onetrust-banner-sdk input[type="email"],#onetrust-banner-sdk input[type="number"],#onetrust-banner-sdk input[type="search"],#onetrust-banner-sdk input[type="text"],#onetrust-banner-sdk input[type="tel"],#onetrust-banner-sdk input[type="url"],#onetrust-banner-sdk input[type="password"],#onetrust-banner-sdk textarea,#onetrust-pc-sdk input[type="email"],#onetrust-pc-sdk input[type="number"],#onetrust-pc-sdk input[type="search"],#onetrust-pc-sdk input[type="text"],#onetrust-pc-sdk input[type="tel"],#onetrust-pc-sdk input[type="url"],#onetrust-pc-sdk input[type="password"],#onetrust-pc-sdk textarea,#ot-sdk-cookie-policy input[type="email"],#ot-sdk-cookie-policy input[type="number"],#ot-sdk-cookie-policy input[type="search"],#ot-sdk-cookie-policy input[type="text"],#ot-sdk-cookie-policy input[type="tel"],#ot-sdk-cookie-policy input[type="url"],#ot-sdk-cookie-policy input[type="password"],#ot-sdk-cookie-policy textarea{-webkit-appearance:none;-moz-appearance:none;appearance:none}#onetrust-banner-sdk textarea,#onetrust-pc-sdk textarea,#ot-sdk-cookie-policy textarea{min-height:65px;padding-top:6px;padding-bottom:6px}#onetrust-banner-sdk input[type="email"]:focus,#onetrust-banner-sdk input[type="number"]:focus,#onetrust-banner-sdk input[type="search"]:focus,#onetrust-banner-sdk input[type="text"]:focus,#onetrust-banner-sdk input[type="tel"]:focus,#onetrust-banner-sdk input[type="url"]:focus,#onetrust-banner-sdk input[type="password"]:focus,#onetrust-banner-sdk textarea:focus,#onetrust-banner-sdk select:focus,#onetrust-pc-sdk input[type="email"]:focus,#onetrust-pc-sdk input[type="number"]:focus,#onetrust-pc-sdk input[type="search"]:focus,#onetrust-pc-sdk input[type="text"]:focus,#onetrust-pc-sdk input[type="tel"]:focus,#onetrust-pc-sdk input[type="url"]:focus,#onetrust-pc-sdk input[type="password"]:focus,#onetrust-pc-sdk textarea:focus,#onetrust-pc-sdk select:focus,#ot-sdk-cookie-policy input[type="email"]:focus,#ot-sdk-cookie-policy input[type="number"]:focus,#ot-sdk-cookie-policy input[type="search"]:focus,#ot-sdk-cookie-policy input[type="text"]:focus,#ot-sdk-cookie-policy input[type="tel"]:focus,#ot-sdk-cookie-policy input[type="url"]:focus,#ot-sdk-cookie-policy input[type="password"]:focus,#ot-sdk-cookie-policy textarea:focus,#ot-sdk-cookie-policy select:focus{border:1px solid #000;outline:0}#onetrust-banner-sdk label,#onetrust-banner-sdk legend,#onetrust-pc-sdk label,#onetrust-pc-sdk legend,#ot-sdk-cookie-policy label,#ot-sdk-cookie-policy legend{display:block;margin-bottom:0.5rem;font-weight:600}#onetrust-banner-sdk fieldset,#onetrust-pc-sdk fieldset,#ot-sdk-cookie-policy fieldset{padding:0;border-width:0}#onetrust-banner-sdk input[type="checkbox"],#onetrust-banner-sdk input[type="radio"],#onetrust-pc-sdk input[type="checkbox"],#onetrust-pc-sdk input[type="radio"],#ot-sdk-cookie-policy input[type="checkbox"],#ot-sdk-cookie-policy input[type="radio"]{display:inline}#onetrust-banner-sdk label>.label-body,#onetrust-pc-sdk label>.label-body,#ot-sdk-cookie-policy label>.label-body{display:inline-block;margin-left:0.5rem;font-weight:normal}#onetrust-banner-sdk ul,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ul{list-style:circle inside}#onetrust-banner-sdk ol,#onetrust-pc-sdk ol,#ot-sdk-cookie-policy ol{list-style:decimal inside}#onetrust-banner-sdk ol,#onetrust-banner-sdk ul,#onetrust-pc-sdk ol,#onetrust-pc-sdk ul,#ot-sdk-cookie-policy ol,#ot-sdk-cookie-policy ul{padding-left:0;margin-top:0}#onetrust-banner-sdk ul ul,#onetrust-banner-sdk ul ol,#onetrust-banner-sdk ol ol,#onetrust-banner-sdk ol ul,#onetrust-pc-sdk ul ul,#onetrust-pc-sdk ul ol,#onetrust-pc-sdk ol ol,#onetrust-pc-sdk ol ul,#ot-sdk-cookie-policy ul ul,#ot-sdk-cookie-policy ul ol,#ot-sdk-cookie-policy ol ol,#ot-sdk-cookie-policy ol ul{margin:1.5rem 0 1.5rem 3rem;font-size:90%}#onetrust-banner-sdk li,#onetrust-pc-sdk li,#ot-sdk-cookie-policy li{margin-bottom:1rem}#onetrust-banner-sdk code,#onetrust-pc-sdk code,#ot-sdk-cookie-policy code{padding:0.2rem 0.5rem;margin:0 0.2rem;font-size:90%;white-space:nowrap;background:#f1f1f1;border:1px solid #e1e1e1;border-radius:4px}#onetrust-banner-sdk pre>code,#onetrust-pc-sdk pre>code,#ot-sdk-cookie-policy pre>code{display:block;padding:1rem 1.5rem;white-space:pre}#onetrust-banner-sdk th,#onetrust-banner-sdk td,#onetrust-pc-sdk th,#onetrust-pc-sdk td,#ot-sdk-cookie-policy th,#ot-sdk-cookie-policy td{padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}#onetrust-banner-sdk .ot-sdk-u-full-width,#onetrust-pc-sdk .ot-sdk-u-full-width,#ot-sdk-cookie-policy .ot-sdk-u-full-width{width:100%;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-u-max-full-width,#onetrust-pc-sdk .ot-sdk-u-max-full-width,#ot-sdk-cookie-policy .ot-sdk-u-max-full-width{max-width:100%;box-sizing:border-box}#onetrust-banner-sdk .ot-sdk-u-pull-right,#onetrust-pc-sdk .ot-sdk-u-pull-right,#ot-sdk-cookie-policy .ot-sdk-u-pull-right{float:right}#onetrust-banner-sdk .ot-sdk-u-pull-left,#onetrust-pc-sdk .ot-sdk-u-pull-left,#ot-sdk-cookie-policy .ot-sdk-u-pull-left{float:left}#onetrust-banner-sdk hr,#onetrust-pc-sdk hr,#ot-sdk-cookie-policy hr{margin-top:3rem;margin-bottom:3.5rem;border-width:0;border-top:1px solid #e1e1e1}#onetrust-banner-sdk .ot-sdk-container:after,#onetrust-banner-sdk .ot-sdk-row:after,#onetrust-banner-sdk .ot-sdk-u-cf,#onetrust-pc-sdk .ot-sdk-container:after,#onetrust-pc-sdk .ot-sdk-row:after,#onetrust-pc-sdk .ot-sdk-u-cf,#ot-sdk-cookie-policy .ot-sdk-container:after,#ot-sdk-cookie-policy .ot-sdk-row:after,#ot-sdk-cookie-policy .ot-sdk-u-cf{content:"";display:table;clear:both}#onetrust-banner-sdk .ot-sdk-row,#onetrust-pc-sdk .ot-sdk-row,#ot-sdk-cookie-policy .ot-sdk-row{margin:0;max-width:none;display:block}
+.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}.ot-sdk-cookie-policy h3,.ot-sdk-cookie-policy h4,.ot-sdk-cookie-policy h6,.ot-sdk-cookie-policy p,.ot-sdk-cookie-policy li,.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy th,.ot-sdk-cookie-policy #cookie-policy-description,.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}.ot-sdk-cookie-policy h4{font-size:1.2em}.ot-sdk-cookie-policy h6{font-size:1em;margin-top:2em}.ot-sdk-cookie-policy th{min-width:75px}.ot-sdk-cookie-policy a,.ot-sdk-cookie-policy a:hover{background:#fff}.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}.ot-sdk-cookie-policy .ot-mobile-border{display:none}.ot-sdk-cookie-policy section{margin-bottom:2em}.ot-sdk-cookie-policy table{border-collapse:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy{font-family:inherit;font-size:1rem}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h4,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title{color:dimgray}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup{margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group-desc,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-table-header,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td{font-size:.9em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td span,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td a{font-size:inherit}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group{font-size:1em;margin-bottom:.6em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-title{margin-bottom:1.2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy>section{margin-bottom:1em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th{min-width:75px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a:hover{background:#fff}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead{background-color:#f6f6f4;font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-mobile-border{display:none}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy section{margin-bottom:2em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li{list-style:disc;margin-left:1.5em}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-subgroup ul li h4{display:inline-block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{border-collapse:inherit;margin:auto;border:1px solid #d7d7d7;border-radius:5px;border-spacing:initial;width:100%;overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border-bottom:1px solid #d7d7d7;border-right:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr th:last-child,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr td:last-child{border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:25%}.ot-sdk-cookie-policy[dir=rtl]{text-align:left}#ot-sdk-cookie-policy h3{font-size:1.5em}@media only screen and (max-width: 530px){.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) table,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tbody,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) th,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td,.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{display:block}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) thead tr{position:absolute;top:-9999px;left:-9999px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr{margin:0 0 1em 0}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd),.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) tr:nth-child(odd) a{background:#f6f6f4}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td{border:none;border-bottom:1px solid #eee;position:relative;padding-left:50%}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{position:absolute;height:100%;left:6px;width:40%;padding-right:10px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) .ot-mobile-border{display:inline-block;background-color:#e4e4e4;position:absolute;height:100%;top:0;left:45%;width:2px}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) td:before{content:attr(data-label);font-weight:bold}.ot-sdk-cookie-policy:not(#ot-sdk-cookie-policy-v2) li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table{overflow:hidden}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table td{border:none;border-bottom:1px solid #d7d7d7}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tbody,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{display:block}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-host,#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table .ot-cookies-type{width:auto}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy tr{margin:0 0 1em 0}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{height:100%;width:40%;padding-right:10px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td:before{content:attr(data-label);font-weight:bold}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li{word-break:break-word;word-wrap:break-word}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy thead tr{position:absolute;top:-9999px;left:-9999px;z-index:-9999}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td{border-bottom:1px solid #d7d7d7;border-right:0px}#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table tr:last-child td:last-child{border-bottom:0px}}
+                
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h5,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td,
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy th {
+                        color: #696969;
+                    }
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group {
+                        color: #696969;
+                    }
+                    
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title {
+                            color: #696969;
+                        }
+                    
+            
+                    #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table th {
+                            background-color: #F8F8F8;
+                        }
+                    
+            </style><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_menu_4f3b831708f85de3d36de867115607d519b96b90.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_asyncNotice_8c1efbe99b69755dcb5fa1bac7150a358bd36ab6.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_login_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_register_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_resetEmail_060322da15d597c9051b86f1148f93bdf836501b.css"><link rel="stylesheet" type="text/css" href="https://media1.lajumate.ro/css/desktop/widget_userNotifications_1512732afe2b18e024bb790dfa9e42c7976bd694.css"><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_menu_b6a48e0d43e115963f4c580a78de5f55a42d0dc2.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_asyncNotice_7c32d21e5925c598a9ae72fbb226933e744b7f88.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_login_c0239316f875dac24c070f6686284ef5af7546d4.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_register_6912312513274054bc72e06c1531f49dbcf0394c.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_resetEmail_8034a3e3fe344bc900d1f56108d4665cfb4cffdc.js"></script><script type="text/javascript" src="https://media1.lajumate.ro/js/desktop/widget_userNotifications_47828b493d16063f356168d29caeebd5df0fc214.js"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993437533/?random=1621001077939&amp;cv=9&amp;fst=1621001077939&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059650&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg5c1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flajumate.ro%2Fanunt%2Fnou&amp;ref=https%3A%2F%2Flajumate.ro%2F&amp;tiba=Adauga%20Anunt%20Gratuit%20%F0%9F%91%8C%20Lajumate.ro%20%E2%9C%94%EF%B8%8F&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+			<body class="page_add">
+				
+	<div id="overlay" class="hidden_div"></div>
+	<div id="overlay_content" class="rounded shadow hidden_div"></div>
+
+		<div id="complete_header">
+			<div id="header_holder" class="default_dark_bg">
+				<header>
+					<div id="logo">
+													<a href="https://lajumate.ro">
+								<img src="https://media1.lajumate.ro/images/logo-ljm.png" alt="Lajumate.ro">
+							</a>
+												<small class="version">
+													</small>
+					</div>
+					<div class="menu_block">
+												  
+    <script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_menu_4f3b831708f85de3d36de867115607d519b96b90.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_asyncNotice_8c1efbe99b69755dcb5fa1bac7150a358bd36ab6.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_login_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_register_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_resetEmail_060322da15d597c9051b86f1148f93bdf836501b.css');</script>
+					<script>_.appendCss('https://media1.lajumate.ro/css/desktop/widget_userNotifications_1512732afe2b18e024bb790dfa9e42c7976bd694.css');</script>
+									<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_menu_b6a48e0d43e115963f4c580a78de5f55a42d0dc2.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_asyncNotice_7c32d21e5925c598a9ae72fbb226933e744b7f88.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_login_c0239316f875dac24c070f6686284ef5af7546d4.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_register_6912312513274054bc72e06c1531f49dbcf0394c.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_resetEmail_8034a3e3fe344bc900d1f56108d4665cfb4cffdc.js');</script>
+					<script>_.createScript('https://media1.lajumate.ro/js/desktop/widget_userNotifications_47828b493d16063f356168d29caeebd5df0fc214.js');</script>
+			<div id="menu_holder">
+    <ul id="menu">
+        <li>
+            <a href="https://jobzz.ro/locuri-de-munca-disponibile.html?utm_source=joburi_disponibile" target="_blank">Joburi disponibile</a>
+        </li>
+        <a style="display:none;" id="unsubscribe_action"></a> 
+         
+            <li id="account_menu_link">
+                <a href="https://lajumate.ro/anunturi_utilizator-3670207774ff.html" class="account_url has_arrow">
+                    <div class="account_img"><img src="https://media1.lajumate.ro/svg/account_icon.svg" alt="Ana Asmarandei"></div>
+                    Ana Asmarandei
+                    <i></i>
+                </a>
+                <ul id="account_dropdown" class="shadow rounded">
+                    <li class="user_amount">
+                        <div id="user_amount_holder"><span>Creditul tău:</span><i>0 €</i></div>
+                    </li>
+                    <li id="account_menu_fcm" class="fcm_button ">
+                        <span class="fcm_title"><img src="/svg/notification_bell_green.svg" alt="bell">Activează notificările</span>
+                        <span class="fcm_info">să afli instant tot ce te interesează</span>
+                        <a id="requestNotification" class="buttons btn_default_color rounded shadow" onclick="Fcm.openOverlay(true);" href="#">Activează</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/anunturi.html">Anunțurile mele</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/mesaje">Mesaje<i id="messages_notification"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/favorite">Favorite</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/setari">Setări cont</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/credit/incarcare">Încărcare credit</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/facturi.html">Plăți</a>
+                    </li>
+                    <li>
+                        <a href="https://lajumate.ro/cont/curier.html">Curier</a>
+                    </li>
+                    <li class="menu_sep"></li>
+                    <li class="user_logout">
+                        <a href="https://lajumate.ro/cont/iesire-cont" onclick="_.removeStorage();">Ieşire din cont</a>
+                    </li>
+                </ul>   
+            </li>
+            <li id="to_messages">
+                <a href="https://lajumate.ro/cont/mesaje"><i></i></a>
+            </li>
+            
+        <li><a href="https://ajutor.lajumate.ro/" target="_blank" class="has_arrow">Ajutor</a></li>   
+    </ul>
+</div>
+    <script>
+        has_fav = 0;
+        if(has_fav && document.querySelector('#account_menu_link.fav')){
+            document.querySelector('#account_menu_link.fav').style.display = 'block';
+        }
+    </script>
+    	        	<script>
+		Notifications.show('{"messages":{"count":0,"sent":0,"received":0,"conversations":[]},"items":{"count":0,"active":0,"deleted":0,"pending":0,"waiting-payment":0}}');
+        setTimeout(function() {
+                Fcm.checkHasToken(Fcm.enableBtns, false);
+            }, 2000);
+
+	</script>
+
+														        			<a class="buttons add_btn btn_default_color rounded shadow" href="https://lajumate.ro/anunt/nou">Adaugă Anunţ <span class="add_btn_free rounded shadow">GRATUIT</span></a>
+						        			</div>
+							
+					</header>
+			</div>
+					</div>
+																	<div id="headline_holder">
+	<div id="headline">
+		<h1>Adaugă Anunţ</h1>
+	</div>
+</div>									<div class="clear"></div>
+	<div id="container_holder">
+		<div id="container">
+				<div id="add_form_holder">
+		
+		<form method="POST" action="https://lajumate.ro/anunt/nou" accept-charset="UTF-8" id="add_form" autocomplete="off" enctype="multipart/form-data" novalidate="novalidate"><input name="_token" type="hidden" value="RN1vWdgRbTwhaXn13qaqAIzJWERG9y0Hps8HTpI2">
+			<div id="media_container" class="f_left">
+                <label id="label_media" class="custom_label top_30 rounded" for="media"><i></i>De acum poți adăuga până la <span>18 imagini</span></label>
+
+            	<div class="field media_container rounded">
+            <input id="media" name="media" type="hidden" value="1">
+
+                    <input id="images" multiple="multiple" onchange="Img.prepareUpload();" name="images[]" type="file">
+            
+    <div id="reorder_imgs">
+        <div id="img_free_area" class="rounded">
+            <div id="thumbs_container_free">
+                <div id="reorder_imgs_group_free" class="reorder_imgs_group">
+    
+        
+            <a href="#" id="upload_image" onclick="Img.uploadImage(); return false;" class="upload_image_big">Adaugă imagini</a>
+    
+             
+            <div id="thumb_label_1" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_2" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_3" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_4" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_5" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_6" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_7" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+         
+            <div id="thumb_label_8" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+            
+    
+            <span id="pictures_order" class="stop_img_drag"><div class="text_img">Poţi schimba oricând doreşti ordinea tuturor pozelor</div></span>
+    </div>
+
+    <input id="imgs_count" name="imgs_count" type="hidden" value="0">
+
+    <div id="msg_errors">
+            </div>
+
+            </div>
+        </div>
+
+        <div id="img_paid_area" class="wide_area_white rounded hidden_div">
+            <div id="thumbs_container_paid">
+                <div id="reorder_imgs_group_paid" class="reorder_imgs_group">
+            <div id="top_paid_imgs_info" class="paid_imgs_info"><strong>Pentru doar 1 euro mai poți adăuga 9 imagini suplimentare</strong></div>
+    
+        
+    
+            
+                    <div id="thumb_label_9" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_10" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_11" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_12" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_13" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_14" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_15" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_16" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+                    <div id="thumb_label_17" class="img_holder_fake">
+                <img src="https://media1.lajumate.ro/images/new_bg2.png">
+            </div>
+        
+        <div class="img_holder_fake_white"></div>
+    
+            <div id="bottom_paid_imgs_info" class="paid_imgs_info">Imaginile suplimentare sunt <span class="red_color">INACTIVE</span>. Acestea vor deveni <span class="green_color">ACTIVE</span>, automat, la finalizarea plății din pasul următor.</div>
+    
+    </div>
+
+
+            </div>
+        </div>
+    </div>
+
+                  <span class="tooltup_holder_image rounded"><p class="tooltup_arrow_media"></p><i class="tooltip_icons tooltup_icon_image"></i>Adaugă imagini clare, din toate unghiurile<br>pentru a atrage cât mai mulți cumpărători.<p></p></span>
+            </div>
+
+
+			</div>
+
+			<div class="f_right">
+				
+									<div class="for_margin field id_container">
+                
+
+        
+            
+
+            <input name="id" type="hidden" value="2712904651">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+									<div class="for_margin field title_container">
+                    <label for="title" id="label_title" class="custom_label">Titlul anunțului</label>   
+                
+
+        
+            
+
+            <input class="text_input has_count" maxlength="60" name="title" type="text" value="" id="title">
+
+            
+                    	
+        	        		<span class="tooltup_holder rounded tooltup_holder_focus"><p class="tooltup_arrow"></p><i class="tooltip_icons"></i>Folosește un titlu atractiv pentru a atrage vizite pe anunţul tău!<br><br><p class="title_text_normal">Fără MAJUSCULE, te rog! </p></span>
+    		            
+            <span class="error"></span>
+            <i></i>
+            
+                            <span class="char_counter">6</span>
+                <input class="count_min" name="title_count_min" type="hidden" value="5">
+            
+                
+        
+    </div>
+
+									<div class="for_margin field description_container">
+                    <label for="description" id="label_description" class="custom_label">Descrierea anunțului</label>   
+                
+
+        
+            
+
+            <textarea cols="52" rows="4" maxlength="5000" class="has_count" name="description" id="description"></textarea>
+
+            
+                    	
+        	        		<span class="tooltup_holder rounded"><p class="tooltup_arrow"></p><i class="tooltip_icons"></i>Descrie cât mai amănunțit ceea ce vinzi.<br><br><p class="description_text_strong"> Exemple: starea, calitățile, avantajele.</p><br><p class="description_text_normal"> Nu folosi link-uri către alte site-uri și cuvinte indecente.</p></span>
+    		            
+            <span class="error"></span>
+            <i></i>
+            
+                            <span class="char_counter">5000</span>
+                <input class="count_min" name="description_count_min" type="hidden" value="30">
+            
+                
+        
+    </div>
+
+									<div class="hold_price_together">
+
+
+<div class="for_margin field price_container">
+                    <label for="price" id="label_price" class="custom_label">Preț</label>   
+                
+
+        
+            
+
+            <input name="price" type="text" value="" id="price">
+
+            
+                    	
+        	        		<span class="tooltup_holder rounded"><p class="tooltup_arrow"></p><i class="tooltip_icons"></i><p id="price_tooltip_text">Introdu prețul dorit și alege moneda.</p></span>
+    		            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+									<div class="radio_square_holder currency_hold">
+
+    
+            <h5 class="field_label"> </h5>
+    
+    <div class="radio_square_border">
+                                <label id="lei_holder" class="radio_squarebuttons">
+                <div class="field radio_square_field lei_container">
+                    <input id="id_lei" name="currency" type="radio" value="lei">
+                    
+                    <label for="id_lei">lei</label> 
+                </div>
+
+                            </label>
+                                <label id="euro_holder" class="radio_squarebuttons">
+                <div class="field radio_square_field euro_container">
+                    <input id="id_euro" name="currency" type="radio" value="eur">
+                    
+                    <label for="id_euro">euro</label> 
+                </div>
+
+                            </label>
+            </div>
+    <span class="error"></span>
+</div>
+	</div>
+
+									<div class="for_margin field category_container">
+            <div class="p_relative">
+                <span id="category-field-ic" class="category-field-ic0"></span>
+        <label id="cat_fake_label" for="category-field" class="custom_label">Categorie</label>
+        <input type="text" id="category-field" value="" onclick="Categs.openCategs(); return false">
+        <span class="error"></span>
+        <i></i>
+                    <span class="tooltup_holder rounded"><p class="tooltup_arrow"></p><span class="tooltip_icons"></span><p>Alege categoria potrivită pentru anunțul tău!</p></span>
+                <input placeholder="Categorie" id="category" ng-change="changeCategory(ad.category)" name="category" type="hidden">
+        <input id="parent_categ" name="parent_categ" type="hidden">
+                    <input id="user-ads-limit-auto" disabled="disabled" data-kind="auto" name="user-ads-limit-auto" type="hidden" value="0">
+            <input id="user-ads-limit-imob" disabled="disabled" data-kind="imob" name="user-ads-limit-imob" type="hidden" value="0">
+                <div id="category-popup-container" class="hidden_div">
+            <div id="suggested_categories"></div>
+            <div id="categories_content">
+                <div id="hold_parent_categ" class="">
+                    <div class="mob_catg_older">
+                        <a class="close_btn" onclick="Overlay.close(); return false;" href="#"></a>
+                        <span class="select_categ_title">Categorie</span>
+                    </div>
+                    <ul id="parent_categ_holder" class="parent_categ_holder">
+                                                    <li id="li_1" onclick="Categs.manageCateg(1, 1); return false">
+                                <span class="cat_ico1"><i></i></span>
+                                <div id="categ_name_1">Auto-Moto-Nautic</div>
+                            </li>
+                                                    <li id="li_2" onclick="Categs.manageCateg(2, 1); return false">
+                                <span class="cat_ico2"><i></i></span>
+                                <div id="categ_name_2">Imobiliare</div>
+                            </li>
+                                                    <li id="li_3" onclick="Categs.manageCateg(3, 1); return false">
+                                <span class="cat_ico3"><i></i></span>
+                                <div id="categ_name_3">Electronice-Electrocasnice</div>
+                            </li>
+                                                    <li id="li_4" onclick="Categs.manageCateg(4, 1); return false">
+                                <span class="cat_ico4"><i></i></span>
+                                <div id="categ_name_4">Casă-Gradină</div>
+                            </li>
+                                                    <li id="li_5" onclick="Categs.manageCateg(5, 1); return false">
+                                <span class="cat_ico5"><i></i></span>
+                                <div id="categ_name_5">Modă-Frumusețe</div>
+                            </li>
+                                                    <li id="li_6" onclick="Categs.manageCateg(6, 1); return false">
+                                <span class="cat_ico6"><i></i></span>
+                                <div id="categ_name_6">Mămici și pitici</div>
+                            </li>
+                                                    <li id="li_7" onclick="Categs.manageCateg(7, 1); return false">
+                                <span class="cat_ico7"><i></i></span>
+                                <div id="categ_name_7">Afaceri-Servicii</div>
+                            </li>
+                                                    <li id="li_8" onclick="Categs.manageCateg(8, 1); return false">
+                                <span class="cat_ico8"><i></i></span>
+                                <div id="categ_name_8">Locuri de muncă</div>
+                            </li>
+                                                    <li id="li_9" onclick="Categs.manageCateg(9, 1); return false">
+                                <span class="cat_ico9"><i></i></span>
+                                <div id="categ_name_9">Animale-Agro-Industrie</div>
+                            </li>
+                                                    <li id="li_10" onclick="Categs.manageCateg(10, 1); return false">
+                                <span class="cat_ico10"><i></i></span>
+                                <div id="categ_name_10">Sport-Hobby-Timpul tău liber</div>
+                            </li>
+                                            </ul>
+                </div>
+                <div id="subcateg_holder" class="">
+                    <div id="temp_subcateg_headline">
+                        <span class="select_categ_title">Subcategorie</span>
+                        <div class="clear"></div>
+                        <span class="please_select">Te rugăm să alegi o categorie.</span>
+                    </div>
+                                                                        <div id="sub_holder_1" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico1"></span>Auto-Moto-Nautic</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_25" onclick="Categs.manageCateg(25, 0, 1); return false">
+                                            <div id="categ_name_25">Autoturisme</div>
+                                        </li>
+                                                                            <li id="li_26" onclick="Categs.manageCateg(26, 0, 1); return false">
+                                            <div id="categ_name_26">Motociclete - ATV - Scutere</div>
+                                        </li>
+                                                                            <li id="li_27" onclick="Categs.manageCateg(27, 0, 1); return false">
+                                            <div id="categ_name_27">Camioane - Utilitare - Bărci</div>
+                                        </li>
+                                                                            <li id="li_28" onclick="Categs.manageCateg(28, 0, 1); return false">
+                                            <div id="categ_name_28">Piese - Accesorii - Consumabile</div>
+                                        </li>
+                                                                            <li id="li_29" onclick="Categs.manageCateg(29, 0, 1); return false">
+                                            <div id="categ_name_29">Jante - Anvelope</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_2" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico2"></span>Imobiliare</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_16" onclick="Categs.manageCateg(16, 0, 2); return false">
+                                            <div id="categ_name_16">Garsoniere de închiriat</div>
+                                        </li>
+                                                                            <li id="li_17" onclick="Categs.manageCateg(17, 0, 2); return false">
+                                            <div id="categ_name_17">Garsoniere de vânzare</div>
+                                        </li>
+                                                                            <li id="li_18" onclick="Categs.manageCateg(18, 0, 2); return false">
+                                            <div id="categ_name_18">Apartamente de închiriat</div>
+                                        </li>
+                                                                            <li id="li_19" onclick="Categs.manageCateg(19, 0, 2); return false">
+                                            <div id="categ_name_19">Apartamente de vânzare</div>
+                                        </li>
+                                                                            <li id="li_20" onclick="Categs.manageCateg(20, 0, 2); return false">
+                                            <div id="categ_name_20">Case - Vile de închiriat</div>
+                                        </li>
+                                                                            <li id="li_21" onclick="Categs.manageCateg(21, 0, 2); return false">
+                                            <div id="categ_name_21">Case - Vile de vânzare</div>
+                                        </li>
+                                                                            <li id="li_22" onclick="Categs.manageCateg(22, 0, 2); return false">
+                                            <div id="categ_name_22">Terenuri</div>
+                                        </li>
+                                                                            <li id="li_23" onclick="Categs.manageCateg(23, 0, 2); return false">
+                                            <div id="categ_name_23">Spații comerciale - Birouri</div>
+                                        </li>
+                                                                            <li id="li_24" onclick="Categs.manageCateg(24, 0, 2); return false">
+                                            <div id="categ_name_24">Alte tipuri de spații</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_3" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico3"></span>Electronice-Electrocasnice</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_39" onclick="Categs.manageCateg(39, 0, 3); return false">
+                                            <div id="categ_name_39">Laptop - PC - Periferice</div>
+                                        </li>
+                                                                            <li id="li_40" onclick="Categs.manageCateg(40, 0, 3); return false">
+                                            <div id="categ_name_40">Telefoane</div>
+                                        </li>
+                                                                            <li id="li_41" onclick="Categs.manageCateg(41, 0, 3); return false">
+                                            <div id="categ_name_41">Tablete - eReadere - Gadgeturi</div>
+                                        </li>
+                                                                            <li id="li_42" onclick="Categs.manageCateg(42, 0, 3); return false">
+                                            <div id="categ_name_42">TV - Audio - Foto - Video</div>
+                                        </li>
+                                                                            <li id="li_43" onclick="Categs.manageCateg(43, 0, 3); return false">
+                                            <div id="categ_name_43">Jocuri - Console</div>
+                                        </li>
+                                                                            <li id="li_44" onclick="Categs.manageCateg(44, 0, 3); return false">
+                                            <div id="categ_name_44">Electrocasnice</div>
+                                        </li>
+                                                                            <li id="li_60" onclick="Categs.manageCateg(60, 0, 3); return false">
+                                            <div id="categ_name_60">Echipamente de birou</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_4" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico4"></span>Casă-Gradină</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_45" onclick="Categs.manageCateg(45, 0, 4); return false">
+                                            <div id="categ_name_45">Mobilă - Decorațiuni</div>
+                                        </li>
+                                                                            <li id="li_46" onclick="Categs.manageCateg(46, 0, 4); return false">
+                                            <div id="categ_name_46">Grădină - Plante - Pomi</div>
+                                        </li>
+                                                                            <li id="li_47" onclick="Categs.manageCateg(47, 0, 4); return false">
+                                            <div id="categ_name_47">Renovări - Construcții - Bricolaj</div>
+                                        </li>
+                                                                            <li id="li_48" onclick="Categs.manageCateg(48, 0, 4); return false">
+                                            <div id="categ_name_48">Climatizare - Electrice</div>
+                                        </li>
+                                                                            <li id="li_49" onclick="Categs.manageCateg(49, 0, 4); return false">
+                                            <div id="categ_name_49">Menaj - Uz casnic</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_5" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico5"></span>Modă-Frumusețe</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_30" onclick="Categs.manageCateg(30, 0, 5); return false">
+                                            <div id="categ_name_30">Îmbrăcăminte</div>
+                                        </li>
+                                                                            <li id="li_31" onclick="Categs.manageCateg(31, 0, 5); return false">
+                                            <div id="categ_name_31">Încălțăminte</div>
+                                        </li>
+                                                                            <li id="li_32" onclick="Categs.manageCateg(32, 0, 5); return false">
+                                            <div id="categ_name_32">Accesorii - Bijuterii</div>
+                                        </li>
+                                                                            <li id="li_33" onclick="Categs.manageCateg(33, 0, 5); return false">
+                                            <div id="categ_name_33">Cosmetice - Îngrijire personală</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_6" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico6"></span>Mămici și pitici</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_34" onclick="Categs.manageCateg(34, 0, 6); return false">
+                                            <div id="categ_name_34">Haine - Încălțăminte - Accesorii</div>
+                                        </li>
+                                                                            <li id="li_35" onclick="Categs.manageCateg(35, 0, 6); return false">
+                                            <div id="categ_name_35">Alimentație - Igienă</div>
+                                        </li>
+                                                                            <li id="li_36" onclick="Categs.manageCateg(36, 0, 6); return false">
+                                            <div id="categ_name_36">Plimbare - Joacă</div>
+                                        </li>
+                                                                            <li id="li_37" onclick="Categs.manageCateg(37, 0, 6); return false">
+                                            <div id="categ_name_37">Camera copilului - Școală</div>
+                                        </li>
+                                                                            <li id="li_38" onclick="Categs.manageCateg(38, 0, 6); return false">
+                                            <div id="categ_name_38">Pentru Mămici</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_7" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico7"></span>Afaceri-Servicii</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_11" onclick="Categs.manageCateg(11, 0, 7); return false">
+                                            <div id="categ_name_11">Prestări servicii</div>
+                                        </li>
+                                                                            <li id="li_12" onclick="Categs.manageCateg(12, 0, 7); return false">
+                                            <div id="categ_name_12">Afaceri - Echipamente profesionale</div>
+                                        </li>
+                                                                            <li id="li_13" onclick="Categs.manageCateg(13, 0, 7); return false">
+                                            <div id="categ_name_13">Tehnică medicală</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_8" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico8"></span>Locuri de muncă</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_14" onclick="Categs.manageCateg(14, 0, 8); return false">
+                                            <div id="categ_name_14">Muncă în România</div>
+                                        </li>
+                                                                            <li id="li_15" onclick="Categs.manageCateg(15, 0, 8); return false">
+                                            <div id="categ_name_15">Muncă în străinătate</div>
+                                        </li>
+                                                                            <li id="li_62" onclick="Categs.manageCateg(62, 0, 8); return false">
+                                            <div id="categ_name_62">Caut loc de muncă</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_9" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico9"></span>Animale-Agro-Industrie</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_50" onclick="Categs.manageCateg(50, 0, 9); return false">
+                                            <div id="categ_name_50">Animale de companie</div>
+                                        </li>
+                                                                            <li id="li_51" onclick="Categs.manageCateg(51, 0, 9); return false">
+                                            <div id="categ_name_51">Animale domestice și păsări</div>
+                                        </li>
+                                                                            <li id="li_52" onclick="Categs.manageCateg(52, 0, 9); return false">
+                                            <div id="categ_name_52">Utilaje agricole - Industrie</div>
+                                        </li>
+                                                                            <li id="li_53" onclick="Categs.manageCateg(53, 0, 9); return false">
+                                            <div id="categ_name_53">Produse alimentare</div>
+                                        </li>
+                                                                            <li id="li_54" onclick="Categs.manageCateg(54, 0, 9); return false">
+                                            <div id="categ_name_54">Alte agro</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                                                                <div id="sub_holder_10" class="hidden_div">
+                                <div class="select_categ_title"><span class="cat_ico10"></span>Sport-Hobby-Timpul tău liber</div>
+                                <ul class="child_categ_holder">
+                                                                            <li id="li_55" onclick="Categs.manageCateg(55, 0, 10); return false">
+                                            <div id="categ_name_55">Articole sportive - Timp liber</div>
+                                        </li>
+                                                                            <li id="li_56" onclick="Categs.manageCateg(56, 0, 10); return false">
+                                            <div id="categ_name_56">Cărți - Reviste - Filme</div>
+                                        </li>
+                                                                            <li id="li_57" onclick="Categs.manageCateg(57, 0, 10); return false">
+                                            <div id="categ_name_57">Muzică - Instrumente muzicale</div>
+                                        </li>
+                                                                            <li id="li_58" onclick="Categs.manageCateg(58, 0, 10); return false">
+                                            <div id="categ_name_58">Obiecte de colecție - Antichități</div>
+                                        </li>
+                                                                            <li id="li_59" onclick="Categs.manageCateg(59, 0, 10); return false">
+                                            <div id="categ_name_59">Turism - Cazare</div>
+                                        </li>
+                                                                            <li id="li_61" onclick="Categs.manageCateg(61, 0, 10); return false">
+                                            <div id="categ_name_61">Biciclete și accesorii</div>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                                            </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    
+    </div>
+
+									<div class="for_margin field location_container">
+                    <label for="location" id="label_location" class="custom_label">Localitate</label>   
+                
+
+        
+            
+
+            <input name="location" type="text" value="" id="location">
+
+            
+                    	
+        	        		<span class="tooltup_holder rounded"><p class="tooltup_arrow"></p><i class="tooltip_icons"></i><p>Poți alege o altă localitate pentru anunțul tău!</p></span>
+    		            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+									<div class="for_margin field city_id_container">
+                
+
+        
+            
+
+            <input id="city_id" name="city_id" type="hidden" value="">
+
+            
+                    	
+        	            
+            <span class="error"></span>
+            <i></i>
+            
+            
+                
+        
+    </div>
+
+									<div id="EXTRA_FIELDS" class="field EXTRA_container">
+    
+    </div>
+
+
+									<div id="PROMOTION" class="field PROMOTION_container">
+    
+    </div>
+
+
+									<div id="EXTRA_BUTTOM_FIELDS" class="field EXTRABOTTOM_container">
+    
+    </div>
+
+
+									<div id="duplicate_clone_holder"></div>
+
+<label id="terms_holder" class="for_margin checkboxes label_terms">
+    <div class="field checkbox_field terms_container">
+        <input id="terms" name="terms" type="checkbox" value="1">
+        <label for="terms"> </label>       
+        <span class="error"></span>
+    </div>
+            <span>Sunt de acord cu <a href="https://ajutor.lajumate.ro/hc/ro/articles/205190171-Termeni-si-conditii" target="_blank">Termenii și Condițiile</a> siteului Lajumate.ro</span>
+    
+    </label>
+
+
+									<label id="nl_holder" class="for_margin checkboxes label_nl">
+    <div class="field checkbox_field nl_container">
+        <input id="nl" checked="checked" name="nl" type="checkbox" value="1">
+        <label for="nl"> </label>       
+        <span class="error"></span>
+    </div>
+            <span>Mă abonez la newsletter</span>
+    
+    </label>
+
+
+				
+				<input id="insert_new" class="buttons add_btn btn_default_color rounded shadow" type="submit" value="Adaugă Anunţ">
+			</div>
+		</form>
+
+		<script>
+    $(document).ready(function(){
+
+        $("#add_form").validate({
+
+            errorElement: 'span', //default input error message container
+            errorClass: 'error', // default input error message class
+            focusInvalid: false, // do not focus the last invalid input
+            ignore: ".ignore",  // validate all fields including form hidden input
+
+            highlight: function (element) { // hightlight error inputs
+               
+                if ($(element).attr("type") == "checkbox") {
+                    var parent = $(element).closest('.field').parent();
+                    parent.addClass('has-error'); // set error class to the control group
+                } else if ($(element).attr("type") == "radio") {
+                    var parent = $(element).closest('.field').parent().parent().parent();
+                    parent.addClass('has-error'); // set error class to the control group
+                } else {
+                    $(element).closest('.field').addClass('has-error'); // set error class to the control group  
+                } 
+            },
+           
+            unhighlight: function (element) { // revert the change done by hightlight
+                
+                if ($(element).attr("type") == "checkbox") {
+                    var parent = $(element).closest('.field').parent();
+                    parent.removeClass('has-error'); // set error class to the control group
+                } else if ($(element).attr("type") == "radio") {
+                    var parent = $(element).closest('.field').parent().parent().parent();
+                    parent.removeClass('has-error'); // set error class to the control group
+                } else {
+                    $(element).closest('.field').removeClass('has-error'); // set error class to the control group  
+                }             
+            },
+            
+            errorPlacement: function(error, element) {  
+
+                element.parent().find('.error').remove();
+                
+                if (element.attr("type") == "checkbox") {
+                    error.insertAfter(element.closest('.field').next());
+                } else if (element.attr("type") == "radio") {
+                    error.insertAfter(element.closest('label').next());
+                } else {
+                    if(element.parent('.input-group').length) {
+                        error.insertAfter(element.parent());
+                    } else {
+                        error.insertAfter(element);
+                    }
+                }
+            },
+
+            success: function (label) {
+                
+                label.closest('.field, .checkbox').removeClass('has-error'); // set success class to the control group
+            },
+
+            submitHandler: function (form) {
+
+                if(typeof Promotions != "undefined") {
+                    if(Promotions.cancelSubmit()) {
+                        return false;
+                    }
+                }
+
+                var img = document.getElementById('images');
+                if(img) {
+                    img.setAttribute('disabled', 'disabled');
+                }
+
+                // tag manager
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event' : 'newAdSuccess',
+                    'formId' : 'AdaugaAnunt'
+                });
+
+                form.submit();
+
+                var submitButton = document.getElementById('insert_new');
+                if (submitButton) {
+                    submitButton.setAttribute('disabled', 'disabled');
+                    setTimeout(function(){
+                        submitButton.setAttribute('disabled', '');
+                    }, 7000);
+                }
+            },
+
+            invalidHandler: function(form, validator) {
+
+                if(!validator.numberOfInvalids()) {
+                    return;
+                }
+
+                if(validator.errorList && validator.errorList[0]){
+                    var toGo = validator.errorList[0].element;
+                    if(toGo.name == 'gmap') {
+                        toGo = document.getElementById('gmap');
+                    } else if (toGo.name == 'currency'){
+                        toGo = document.getElementById('lei_holder');
+                    }
+                }
+                
+                if(toGo){
+                    if (_.hasClass(document.body, 'sticky_menu')) { 
+                        var topValue = $(toGo).offset().top - 82;
+                    } else {
+                        if(typeof isMobile !== 'undefined') {
+                            var topValue = $(toGo).offset().top - 76;
+                        } else {
+                            var topValue = $(toGo).offset().top - 22;
+                        }
+                        
+                    }           
+
+                    $('html, body').animate({
+                        scrollTop: topValue
+                    }, 500);
+
+                    setTimeout(function () {
+                        if (typeof validator.errorList[0] !== 'undefined') {
+                            $(validator.errorList[0].element).focus();
+                        }
+                    }, 500);
+                }
+            },
+
+            rules: {"title":{"laravelRequired":[],"laravelRegex":["\/^(?!.*\\b(v\u00e2nzare|vanzare|vinzare|v\u00eenzare|vindem|v\u00eend|vand|v\u00e2nd|vind|urgent|oferta|ofert\u0103|mokazie|ocazie|okazie|moca|pont|revinde|revindem|revind|revand|rev\u00e2nd|rev\u00eend|vinderi|vindere|revindere|superoferta|superofert\u0103|supraofert\u0103|supraoferta|pula|muie|amanta|videochat|dildo|prezervativ|prezervative|porno|caca|kkt|plm|coaie|popsockets|popsocket|pop sockets|pop socket)\\b).*$\/i"],"laravelMax":["60"],"laravelMin":["5"]},"description":{"laravelRequired":[],"laravelMin":["30"],"laravelMax":["5000"]},"category":{"laravelRequired":[],"laravelInteger":[],"laravelMin":["11"],"laravelUserAdsLimit":[]},"location":{"laravelRequired":[]},"price":{"laravelRequiredUnless":["category","62"],"laravelMax":["10"],"laravelRegex":["\/[0-9]+[,]{0,1}[0-9]{0,2}\/"]},"currency":{"laravelRequiredUnless":["category","62"]},"terms":{"laravelRequired":[]},"image":{"laravelMax":["10000"]}} ,
+            messages: {"title":{"laravelRequired":"Titlul anun\u021bului este un c\u00e2mp obligatoriu!","laravelRegex":"Titlul nu trebuie s\u0103 con\u021bin\u0103 cuvinte precum v\u00e2nd, ofert\u0103, urgent, etc.","laravelMax":"Titlul trebuie s\u0103 con\u021bin\u0103 cel mult 60 caractere!","laravelMin":"Titlul trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin 5 caractere!"},"description":{"laravelRequired":"Descrierea este un c\u00e2mp obligatoriu! ","laravelMin":"Descrierea trebuie s\u0103 con\u021bin\u0103 cel pu\u021bin 30 caractere!","laravelMax":"Descrierea trebuie s\u0103 con\u021bin\u0103 cel mult 4000 caractere!"},"category":{"laravelRequired":"Categoria este un c\u00e2mp obligatoriu!","laravelInteger":"C\u00e2mpul category trebuie s\u0103 fie un num\u0103r \u00eentreg.","laravelMin":"C\u00e2mpul category trebuie s\u0103 fie cel pu\u021bin 11.","laravelUserAdsLimit":"Ana Asmarandei, ai ad\u0103ugat deja num\u0103rul maxim de anun\u021buri \u00een aceste categorii. Te rug\u0103m s\u0103 dezactivezi anun\u021burile care nu mai sunt valabile."},"location":{"laravelRequired":"Localitatea este un c\u00e2mp obligatoriu!"},"price":{"laravelRequiredUnless":"Pre\u021bul este un c\u00e2mp obligatoriu!","laravelMax":"Pre\u021bul trebuie s\u0103 aib\u0103 cel mult 10 caractere","laravelRegex":"Pre\u021bul trebuie s\u0103 con\u021bin\u0103 doar cifre!"},"currency":{"laravelRequiredUnless":"Selecteaz\u0103 moneda!"},"terms":{"laravelRequired":"Ad\u0103ugarea anun\u021bului presupune acceptarea Termenilor \u0219i Condi\u021biilor!"},"image":{"laravelMax":"C\u00e2mpul image trebuie s\u0103 fie mai mic de 10000 caractere."}}        })
+    })
+</script>
+
+
+			
+	<div id="location_map" class="hidden_div">            
+		<i></i>
+		<a class="close_btn" onclick="Overlay.close(); return false;" href="#"></a>
+		<div id="map_holder"></div>
+
+		<div id="location_area_holder">
+    		<div id="popup_location" class="popup_location no_info">
+	
+	
+			<div class="counties_grup">
+							<a id="title_1" class="counties_common" href="#" onclick="LocationMap.manageLocations(1, 0, 0, ''); return false;">Alba</a>
+							<a id="title_2" class="counties_common" href="#" onclick="LocationMap.manageLocations(2, 0, 0, ''); return false;">Arad</a>
+							<a id="title_3" class="counties_common" href="#" onclick="LocationMap.manageLocations(3, 0, 0, ''); return false;">Arges</a>
+							<a id="title_4" class="counties_common" href="#" onclick="LocationMap.manageLocations(4, 0, 0, ''); return false;">Bacau</a>
+							<a id="title_5" class="counties_common" href="#" onclick="LocationMap.manageLocations(5, 0, 0, ''); return false;">Bihor</a>
+							<a id="title_6" class="counties_common" href="#" onclick="LocationMap.manageLocations(6, 0, 0, ''); return false;">Bistrita-Nasaud</a>
+							<a id="title_7" class="counties_common" href="#" onclick="LocationMap.manageLocations(7, 0, 0, ''); return false;">Botosani</a>
+							<a id="title_8" class="counties_common" href="#" onclick="LocationMap.manageLocations(8, 0, 0, ''); return false;">Braila</a>
+							<a id="title_9" class="counties_common" href="#" onclick="LocationMap.manageLocations(9, 0, 0, ''); return false;">Brasov</a>
+							<a id="title_25" class="counties_common" href="#" onclick="LocationMap.manageLocations(25, 0, 0, ''); return false;">Bucuresti-Ilfov</a>
+							<a id="title_10" class="counties_common" href="#" onclick="LocationMap.manageLocations(10, 0, 0, ''); return false;">Buzau</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_11" class="counties_common" href="#" onclick="LocationMap.manageLocations(11, 0, 0, ''); return false;">Calarasi</a>
+							<a id="title_12" class="counties_common" href="#" onclick="LocationMap.manageLocations(12, 0, 0, ''); return false;">Caras-Severin</a>
+							<a id="title_13" class="counties_common" href="#" onclick="LocationMap.manageLocations(13, 0, 0, ''); return false;">Cluj</a>
+							<a id="title_14" class="counties_common" href="#" onclick="LocationMap.manageLocations(14, 0, 0, ''); return false;">Constanta</a>
+							<a id="title_15" class="counties_common" href="#" onclick="LocationMap.manageLocations(15, 0, 0, ''); return false;">Covasna</a>
+							<a id="title_16" class="counties_common" href="#" onclick="LocationMap.manageLocations(16, 0, 0, ''); return false;">Dambovita</a>
+							<a id="title_17" class="counties_common" href="#" onclick="LocationMap.manageLocations(17, 0, 0, ''); return false;">Dolj</a>
+							<a id="title_18" class="counties_common" href="#" onclick="LocationMap.manageLocations(18, 0, 0, ''); return false;">Galati</a>
+							<a id="title_19" class="counties_common" href="#" onclick="LocationMap.manageLocations(19, 0, 0, ''); return false;">Giurgiu</a>
+							<a id="title_20" class="counties_common" href="#" onclick="LocationMap.manageLocations(20, 0, 0, ''); return false;">Gorj</a>
+							<a id="title_21" class="counties_common" href="#" onclick="LocationMap.manageLocations(21, 0, 0, ''); return false;">Harghita</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_22" class="counties_common" href="#" onclick="LocationMap.manageLocations(22, 0, 0, ''); return false;">Hunedoara</a>
+							<a id="title_23" class="counties_common" href="#" onclick="LocationMap.manageLocations(23, 0, 0, ''); return false;">Ialomita</a>
+							<a id="title_24" class="counties_common" href="#" onclick="LocationMap.manageLocations(24, 0, 0, ''); return false;">Iasi</a>
+							<a id="title_26" class="counties_common" href="#" onclick="LocationMap.manageLocations(26, 0, 0, ''); return false;">Maramures</a>
+							<a id="title_27" class="counties_common" href="#" onclick="LocationMap.manageLocations(27, 0, 0, ''); return false;">Mehedinti</a>
+							<a id="title_28" class="counties_common" href="#" onclick="LocationMap.manageLocations(28, 0, 0, ''); return false;">Mures</a>
+							<a id="title_29" class="counties_common" href="#" onclick="LocationMap.manageLocations(29, 0, 0, ''); return false;">Neamt</a>
+							<a id="title_30" class="counties_common" href="#" onclick="LocationMap.manageLocations(30, 0, 0, ''); return false;">Olt</a>
+							<a id="title_31" class="counties_common" href="#" onclick="LocationMap.manageLocations(31, 0, 0, ''); return false;">Prahova</a>
+							<a id="title_32" class="counties_common" href="#" onclick="LocationMap.manageLocations(32, 0, 0, ''); return false;">Salaj</a>
+							<a id="title_33" class="counties_common" href="#" onclick="LocationMap.manageLocations(33, 0, 0, ''); return false;">Satu-Mare</a>
+					</div>
+			<div class="counties_grup">
+							<a id="title_34" class="counties_common" href="#" onclick="LocationMap.manageLocations(34, 0, 0, ''); return false;">Sibiu</a>
+							<a id="title_35" class="counties_common" href="#" onclick="LocationMap.manageLocations(35, 0, 0, ''); return false;">Suceava</a>
+							<a id="title_36" class="counties_common" href="#" onclick="LocationMap.manageLocations(36, 0, 0, ''); return false;">Teleorman</a>
+							<a id="title_37" class="counties_common" href="#" onclick="LocationMap.manageLocations(37, 0, 0, ''); return false;">Timis</a>
+							<a id="title_38" class="counties_common" href="#" onclick="LocationMap.manageLocations(38, 0, 0, ''); return false;">Tulcea</a>
+							<a id="title_39" class="counties_common" href="#" onclick="LocationMap.manageLocations(39, 0, 0, ''); return false;">Valcea</a>
+							<a id="title_40" class="counties_common" href="#" onclick="LocationMap.manageLocations(40, 0, 0, ''); return false;">Vaslui</a>
+							<a id="title_41" class="counties_common" href="#" onclick="LocationMap.manageLocations(41, 0, 0, ''); return false;">Vrancea</a>
+					</div>
+	
+	</div>    		<div id="cities_list_holder"></div>
+    	</div>
+    </div>
+		
+
+		
+    <div id="phone_validation_holder" class="hidden_div">
+        <span class="validation_headline">Introdu aici numărul tău de telefon!</span>
+        <span>Pe acest număr vei primi un cod de verificare pe care îl vei introduce în pasul următor.</span>
+
+        <input id="check_phone" class="rounded" name="check_phone" type="text" value="">
+
+        <button type="button" id="send_code" onclick="PhoneValidation.send(); return false;" class="buttons green rounded shadow">Trimite codul</button>
+        <a href="#" class="cancel_validation" onclick="Overlay.close(); return false">Nu acum</a>
+
+        <span id="phone_validation_error"></span>
+    </div>
+
+    <div id="code_validation_holder" class="hidden_div">
+
+        <span class="validation_headline">Introdu codul primit prin SMS!</span>
+        <span>Pe numărul pe care l-ai introdus în pasul anterior.</span>
+
+        <input id="check_code" class="rounded" name="check_code" type="text" value="">
+
+        <button type="button" id="validate_code" onclick="PhoneValidation.validate(); return false;" class="buttons green rounded shadow">Verifică telefon</button>
+
+        <a href="#" id="resend_code_btn" class="resend_code" onclick="PhoneValidation.reSend(); return false">Retrimite cod</a>
+
+        <span id="code_validation_error"></span>
+    </div>
+
+    <input id="store_phone" name="store_phone" type="hidden" value="">
+
+
+		<div id="alimentar-products-overlay" class="hidden_div">
+	<a class="close_btn" href="#" onclick="Overlay.close(); return false;"></a>
+	<div class="top">
+		<div class="icon"></div>
+		<p>Pentru a putea publica anunțuri cu vânzare de animale vii destinate consumului sau cu produse alimentare, trebuie să respectați legislația în vigoare și să fiți <b>persoane juridice autorizate</b>, înregistrate la <b>Direcția Sanitară Veterinară și pentru Siguranța Alimentelor</b>.</p>
+	</div>
+	<div class="bottom">
+		<p>Dacă îndepliniți condițiile legale va rugăm să va modificați tipul de cont în Companie.</p>
+		<div class="seller_type_selector">
+			<label class="check_container">
+				<input type="radio" name="sellerType" id="sellerType_1" onclick="ExtraFields.sellerRadioHandle(this);" checked="checked" value="1">
+				<span>Persoană Fizică</span>
+			</label>
+			<label class="check_container">
+				<input type="radio" name="sellerType" id="sellerType_2" onclick="ExtraFields.sellerRadioHandle(this);" value="2">
+				<span>Companie</span>
+			</label>
+		</div>
+		<button type="button" id="set_sellerType" class="disabled" disabled="disabled" onclick="ExtraFields.setSellerType();">Salvează</button>
+		<div id="success_msg"></div>
+	</div>
+</div>	</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<a id="to_top_arrow" href="#" onclick="scrollTu(document.body, 0, 700); return false;"></a>
+	<div class="clear"></div>
+			                
+                            
+        
+        
+        
+                
+        
+        <div id="footer_holder">
+            <footer>
+                <div id="footer_eatzz">
+                    <a href="https://eatzz.ro/?utm_source=lajumate&amp;utm_medium=Desktop&amp;utm_campaign=Footer" target="_blank" title="eatZZ"><img src="/images/eatzz_logo.png" alt="eatZZ"></a>
+                    <p><a href="https://eatzz.ro/?utm_source=lajumate&amp;utm_medium=Desktop&amp;utm_campaign=Footer" target="_blank" title="eatZZ">Mâncarea ta preferată e la doar un click distanță! Intră pe eatZZ și comandă chiar la tine acasă!</a></p>
+                </div>
+                <ul id="footer_sections">
+                    <li class="large">
+                        <span>Secțiuni Lajumate.ro<hr></span>
+                        <ul class="first">
+                        		                            <li>
+	                                <a href="https://lajumate.ro/anunturi_auto-moto-nautic.html">Auto-Moto-Nautic</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_imobiliare.html">Imobiliare</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_electronice-electrocasnice.html">Electronice-Electrocasnice</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_casa-gradina.html">Casă-Gradină</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_moda-frumusete.html">Modă-Frumusețe</a>
+	                            </li>
+                                                    </ul>
+                        <ul class="second">
+                        		                            <li>
+	                                <a href="https://lajumate.ro/anunturi_mamici-si-pitici.html">Mămici și pitici</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_afaceri-servicii.html">Afaceri-Servicii</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_locuri-de-munca.html">Locuri de muncă</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_animale-agro-industrie.html">Animale-Agro-Industrie</a>
+	                            </li>
+                            	                            <li>
+	                                <a href="https://lajumate.ro/anunturi_sport-hobby-timp-liber.html">Sport-Hobby-Timpul tău liber</a>
+	                            </li>
+                                                    </ul>
+                    </li>
+                    <li>
+                        <span>De ajutor<hr></span>
+                        <ul>
+                                                        <li><a href="https://lajumate.ro/promovare.html">Promovarea anunțurilor</a></li>
+                            <li><a target="_blank" href="https://lajumate.ro/aplicatie.html" title="Aplicații: Android și iOS">Aplicații: Android și iOS</a></li>
+                            <li><a href="https://lajumate.ro/validare-telefon.html">Verificare telefon</a></li>
+	                        <li><a href="https://ajutor.lajumate.ro/" target="_blank">Ajutor</a></li>
+	                        <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/205191181-Reguli-de-utilizare">Reguli de utilizare</a></li>
+                            <li><a href="https://lajumate.ro/harta/judete">Harta judeţelor</a></li>
+                            <li><a href="https://lajumate.ro/harta/categorii">Hartă site</a></li>
+                                                    </ul>
+                    </li>
+                    <li>
+                        <span>Despre<hr></span>
+                        <ul>
+                            <li><a target="_blank" href="https://blog.lajumate.ro/" title="Blog">Blog</a></li>
+                            <li><a target="_blank" href="https://lajumate.ro/spoturi-tv.html" title="Campanii și spoturi TV">Campanii și spoturi TV</a></li>
+                            <li><a target="_blank" href="https://www.intactmediagroup.ro/diviziile-noastre/televiziune/">Antena TV</a></li>
+                            <li><a target="_blank" href="https://www.intactmediagroup.ro/despre-noi/">Intact Media Group</a></li>
+                            <li><a target="_blank" href="http://www.anpc.gov.ro/">ANPC</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/205190171-Termeni-si-conditii">Termeni și condiții</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/360005747974-Politica-de-cookies-Lajumate-ro">Politica de cookies</a></li>
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/articles/360004419594-Politica-de-confidențialitate-Lajumate-ro">Politica de confidențialitate</a></li>
+
+                            <li>
+                                <button id="ot-sdk-btn" onclick="Optanon.ToggleInfoDisplay();">Setări de confidențialitate</button>
+                            </li>
+
+                            <li><a target="_blank" href="https://ajutor.lajumate.ro/hc/ro/requests/new">Contact</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span>Aplicații disponibile<hr></span>
+                        <ul id="apps_links">
+                            <li>
+                                <a class="ios_icon" href="https://play.google.com/store/apps/details?id=ro.lajumate" target="_blank">
+                                    <i></i>
+                                    <span>Google Play</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="android_icon" href="https://itunes.apple.com/ro/app/lajumate.ro/id1047596900?mt=8" target="_blank">
+                                    <i></i>
+                                    <span>App Store</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="huawei_icon" href="https://appgallery.huawei.com/#/app/C101354241" target="_blank">
+                                    <i></i>
+                                    <span>AppGallery</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <div id="footer_social">
+                    <span>Urmărește-ne pe:</span>
+                    <div id="social_media">
+                        <a target="_blank" class="facebook_social" href="https://www.facebook.com/lajumate.ro">Facebook</a>
+                        <a target="_blank" class="twitter_social" href="https://www.twitter.com/lajumate_ro">Twitter</a>
+                        <a target="_blank" class="linkedIn_social" href="https://www.linkedin.com/company/lajumate-ro">LinkedIn</a>
+                        <a target="_blank" class="youtube_social" href="https://www.youtube.com/channel/UCHAMTJ2rQdSgoy94zJJ3mQQ">YouTube</a>
+                        <a target="_blank" class="instagram_social" href="https://instagram.com/lajumate.ro">Instagram</a>
+                        <a target="_blank" class="pinterest_social" href="https://www.pinterest.com/lajumate_ro">Pinterest</a>
+                    </div>
+                    <p id="copyright">© Intact Media Group</p>
+                </div>
+            </footer>
+        </div>
+        <!-- Start Google AdSense Custom Search Ads -->
+                <!-- End Google AdSense Custom Search Ads -->
+
+        <iframe name="__tcfapiLocator" title="CMP Locator" style="display: none;"></iframe><iframe height="0" width="0" src="https://pandg.tapad.com/tag?gdpr=1&amp;gdpr_consent=CPGMSInPGMSInAcABBENBaCsAP_AAH_AAChQH0Nf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrTPsbk2Mr7NKJ7PEinMbe2dYGH9_n93TuZKY7__8___z__-v_v____f_r-3_3__59X---_e_V399zLv9__3__A-UAkw1L4ALsSxwZJo0qhRAhCsJDoBQAUUAwtE1hAyuCnZXAR6ggYAITUBGBECDEFGLAIABAIAkIiAkAPBAIgCIBAACAFSAhAARsAgsALAwCAAUA0LECKAIQJCDI4KjlMCAiRaKCeysASi72NMIQyiwAoFH9FRgIlCCBYGQkLAA.f_gAD_gAAAAA&amp;referrer_url=https%3A%2F%2Flajumate.ro%2F&amp;page_url=https%3A%2F%2Flajumate.ro%2Fanunt%2Fnou&amp;owner=P%26G&amp;bp_id=antenatvgroup&amp;data=%7B%22category%22%3A%22add%22%7D" style="display: none;"></iframe><iframe name="__cmpLocator" style="display: none;"></iframe><script type="text/javascript">
+            function termsUpdatedCookie() {
+                //if(CookieJar.get('acceptcookies_group_1') != 'false') {
+                    CookieJar.put('terms_updated', true, 30);
+                //}
+            }
+        </script>
+                    <div id="terms_updated">
+                Termenii și condițiile de pe site au fost actualizate. Detaliile complete sunt disponibile <a target="_blank" onclick="termsUpdatedCookie();" href="https://ajutor.lajumate.ro/hc/ro/articles/205190171-Termeni-si-conditii">aici</a>
+            </div>
+                <script src="https://ivm.antenaplay.ro/js/ova/inread.min.js"></script>
+
+            
+
+     
+
+    
+		<script type="text/javascript">
+		var dataLayer = [];
+
+					dataLayer.push({'pageTitle': 'add'});
+			</script>
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPLFVB"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MPLFVB');</script>
+	<!-- End Google Tag Manager -->
+
+<div id="onetrust-consent-sdk"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","891172494566486");</script>
+<iframe src="https://creativecdn.com/tags?id=pr_ROmYQyE4AWq1FHdNIvaz&amp;ncm=1" width="1" height="1" scrolling="no" frameborder="0" style="display: none;"></iframe><script type="text/javascript" id="">fbq("track","PageView");</script></body></html>

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.ParamTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.727 s <<< FAILURE! - in org.example.features.search.ParamTest
+initializationError(org.example.features.search.ParamTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.IllegalStateException: Parameterized test should have at least one @Test method
+

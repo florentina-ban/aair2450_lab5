@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.example.features.search.OlxTest" skipped="1" tests="2" time="12.05" timestamp="2021-05-14 11:58:01"><testcase classname="org.example.features.search.OlxTest" name="Searching by ambiguious keyword should display the disambiguation page"><skipped/></testcase><testcase classname="org.example.features.search.OlxTest" name="Searching by keyword apple should display the corresponding article"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+org.example.pages.OlxPage.get_to_login(OlxPage.java:27)&#13;
+org.example.steps.serenity.OlxSteps.enters(OlxSteps.java:15)&#13;
+org.example.features.search.OlxTest.searching_by_keyword_apple_should_display_the_corresponding_article(OlxTest.java:25)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Olx test","Searching by keyword apple should display the corresponding article","FAILURE","2021-05-14T11:58:05.7602249+03:00[Europe/Bucharest]","0.0","10.34"
+"Olx test","Initialisation","FAILURE","2021-05-14T13:18:52.9803212+03:00[Europe/Bucharest]","0.0","0.0"
+"Olx test","Log in test","SUCCESS","2021-05-14T16:16:32.7854384+03:00[Europe/Bucharest]","0.0","13.91"
+"Olx test","Searching by ambiguious keyword should display the disambiguation page","PENDING","2021-05-14T16:16:33.1511281+03:00[Europe/Bucharest]","0.0","1.08"

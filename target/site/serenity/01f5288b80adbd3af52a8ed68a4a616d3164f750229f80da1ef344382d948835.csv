@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Olx test","Log in test","SUCCESS","2021-05-14T16:16:32.7854384+03:00[Europe/Bucharest]","0.0","13.91"
+"Param test","Log in test","SUCCESS","2021-05-14T17:38:05.3252308+03:00[Europe/Bucharest]","0.0","14.93"
+"Scenario test","Adauga test","SUCCESS","2021-05-14T17:48:53.2631871+03:00[Europe/Bucharest]","0.0","24.66"

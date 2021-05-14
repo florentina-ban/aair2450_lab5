@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.ScenarioTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 29.937 s - in org.example.features.search.ScenarioTest

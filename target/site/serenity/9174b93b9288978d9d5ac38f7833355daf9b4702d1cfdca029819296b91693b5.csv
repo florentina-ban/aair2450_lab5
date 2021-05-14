@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Olx test","Searching by keyword apple should display the corresponding article","FAILURE","2021-05-14T11:58:05.7602249+03:00[Europe/Bucharest]","0.0","10.34"
+"Olx test","Initialisation","FAILURE","2021-05-14T13:18:52.9803212+03:00[Europe/Bucharest]","0.0","0.0"
+"Scenario test","Log in test","ERROR","2021-05-14T17:08:53.8708911+03:00[Europe/Bucharest]","0.0","10.81"
